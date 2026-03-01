@@ -1,186 +1,245 @@
 #EXTM3U
-# [Source] 
-# [01 Mar 2026] 
-# [formato base] #EXTINF:-1 tvg-name="nome-canale" tvg-logo="logo.png" tvg-id="nome-canale-epg" group-title="categoria",nome-canale
+# [Source]
+# [01 Mar 2026] Lista Nazionali ordinata per LCN DTT nazionale + pulizia tag HTML
 
-# --- NAZIONALI (1-70) ---
+# Nazionali (LCN DTT) -------------------------------
 
-#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/330px-Rai_1_-_Logo_2016.svg.png" group-title="Nazionali",[1] Rai 1
+#EXTINF:-1 tvg-name="Rai 1" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/rai1.png" tvg-id="Rai1.it" group-title="Nazionali",[1] Rai 1
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
 
-#EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/330px-Rai_2_-_Logo_2016.svg.png" group-title="Nazionali",[2] Rai 2
+#EXTINF:-1 tvg-name="Rai 2" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/rai2.png" tvg-id="Rai2.it" group-title="Nazionali",[2] Rai 2
 https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8
 
-#EXTINF:-1 tvg-id="Rai3.it@HD" tvg-name="Rai 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/330px-Rai_3_-_Logo_2016.svg.png" group-title="Nazionali",[3] Rai 3
+#EXTINF:-1 tvg-name="Rai 3" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/rai3.png" tvg-id="Rai3.it" group-title="Nazionali",[3] Rai 3
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Rete4.it" tvg-name="Rete 4" tvg-logo="https://img-prod-api2.mediasetplay.mediaset.it/api/images/cu/v3/aHR0cHM6Ly9zdGF0aWMyLm1lZGlhc2V0cGxheS5tZWRpYXNldC5pdC9tYW0vMjAyMS8wMy8zMC8xNzE0NDY0MTktMGZiY2Q4YjAtYWE5My00M2FkLTkxMjItMTFlYWI5MThhNjkyLnBuZw/editorial_image_channel_logo/80/80?r=4" group-title="Nazionali",[4] Rete 4
+#EXTINF:-1 tvg-name="Rete 4" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/rete4.png" tvg-id="Rete4.it" group-title="Nazionali",[4] Rete 4
 https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5" tvg-logo="https://img-prod-api2.mediasetplay.mediaset.it/api/images/cu/v3/aHR0cHM6Ly9zdGF0aWMyLm1lZGlhc2V0cGxheS5tZWRpYXNldC5pdC9tYW0vMjAyMS8wMy8zMC8xNjU0NTkzNTgtNmFlNGJkYWQtMDhkYS00YjQyLTg2MjgtZTQ5MTU2YTBhZjdlLnBuZw/editorial_image_channel_logo/80/80?r=2" group-title="Nazionali",[5] Canale 5
+#EXTINF:-1 tvg-name="Canale 5" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/canale5.png" tvg-id="Canale5.it" group-title="Nazionali",[5] Canale 5
 https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1" tvg-logo="https://img-prod-api2.mediasetplay.mediaset.it/api/images/cu/v3/aHR0cHM6Ly9zdGF0aWMyLm1lZGlhc2V0cGxheS5tZWRpYXNldC5pdC9tYW0vMjAyMS8wMy8zMC8xNjUwMjI4ODctMTMzMzY2M2QtYzRjMi00MTE1LWE3ZDAtMTNjYzE2ZWVlNmM4LnBuZw/editorial_image_channel_logo/64/64?r=2" group-title="Nazionali",[6] Italia 1
+#EXTINF:-1 tvg-name="Italia 1" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/italia1.png" tvg-id="Italia1.it" group-title="Nazionali",[6] Italia 1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="LA7.it" tvg-name="La7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/960px-LA7_-_Logo_2011.svg.png" group-title="Nazionali",[7] La7
+#EXTINF:-1 tvg-name="La7" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/la7.png" group-title="Nazionali",[7] La7
 https://viamotionhsi.netplus.ch/live/eds/la7/browser-HLS8/la7.m3u8
 
-#EXTINF:-1 tvg-id="TV8.it" tvg-name="TV8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTWjlJJa1qT7Ah9KtIBQWQoZKDoMXUQDQuAQ&s" group-title="Nazionali",[8] TV8
+#EXTINF:-1 tvg-name="TV8" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/tv8.png" group-title="Nazionali",[8] TV8
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
-#EXTINF:-1 tvg-id="Nove.it" tvg-name="Nove" tvg-logo="https://i.imgur.com/Hp723RU.png" group-title="Nazionali",[9] Nove
+#EXTINF:-1 tvg-name="Nove" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/nove.png" tvg-id="Nove.it" group-title="Nazionali",[9] Nove
 https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
 
-#EXTINF:-1 tvg-id="20.it" tvg-name="20 Mediaset" tvg-logo="https://img-prod-api2.mediasetplay.mediaset.it/api/images/cu/v3/aHR0cHM6Ly9zdGF0aWMyLm1lZGlhc2V0cGxheS5tZWRpYXNldC5pdC9tYW0vMjAyMi8wNS8wOS8xNDEzMzg4ODMtOGNjNGVmY2ItODU4ZC00NWIyLWFjNjYtMTE3NTgzNDZkNzQ1LnBuZw/editorial_image_channel_logo/64/64?r=2" group-title="Nazionali",[20] 20 Mediaset
+#EXTINF:-1 tvg-name="20 Mediaset" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/20mediaset.png" tvg-id="20.it" group-title="Nazionali",[20] 20 Mediaset
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4" tvg-logo="https://i.imgur.com/XFkZRfv.png" group-title="Nazionali",[21] Rai 4
+#EXTINF:-1 tvg-name="Rai 4" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/rai4.png" tvg-id="Rai4.it" group-title="Nazionali",[21] Rai 4
 https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=746966
 
-#EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris" tvg-logo="https://img-prod-api2.mediasetplay.mediaset.it/api/images/cu/v3/aHR0cHM6Ly9zdGF0aWMyLm1lZGlhc2V0cGxheS5tZWRpYXNldC5pdC9tYW0vMjAyMS8wMy8zMC8xNzIwMTMwODAtNmZhMmYyN2EtMmExZi00M2U5LTg2ZDAtZWJlMjRlMDkzZmZlLnBuZw/editorial_image_channel_logo/64/64?r=4" group-title="Nazionali",[22] Iris
+#EXTINF:-1 tvg-name="Iris" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/iris.png" tvg-id="Iris.it" group-title="Nazionali",[22] Iris
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai 5" tvg-logo="https://i.imgur.com/Leu2zTO.png" group-title="Nazionali",[23] Rai 5
+#EXTINF:-1 tvg-name="Rai 5" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/rai5.png" tvg-id="Rai5.it" group-title="Nazionali",[23] Rai 5
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=rainet/4.0.5
 
-#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="Rai Movie" tvg-logo="https://i.imgur.com/RKpO8CE.png" group-title="Nazionali",[24] Rai Movie
+#EXTINF:-1 tvg-name="Rai Movie" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/raimovie.png" tvg-id="RaiMovie.it" group-title="Nazionali",[24] Rai Movie
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=rainet/4.0.5
 
-#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai Premium" tvg-logo="https://i.imgur.com/RKI4nFy.png" group-title="Nazionali",[25] Rai Premium
+#EXTINF:-1 tvg-name="Rai Premium" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/raipremium.png" tvg-id="RaiPremium.it" group-title="Nazionali",[25] Rai Premium
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=rainet/4.0.5
 
-#EXTINF:-1 tvg-id="Cielo.it" tvg-name="Cielo" tvg-logo="https://i.imgur.com/cPluF03.png" group-title="Nazionali",[26] Cielo
+#EXTINF:-1 tvg-name="Cielo" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/cielo.png" tvg-id="CieloTV.it" group-title="Nazionali",[26] Cielo
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
-#EXTINF:-1 tvg-id="Twentyseven.it" tvg-name="27 Twentyseven" tvg-logo="https://i.imgur.com/y2PdPCK.png" group-title="Nazionali",[27] 27 Twentyseven
+#EXTINF:-1 tvg-name="Twentyseven" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/twentyseven.png" tvg-id="27Twentyseven.it" group-title="Nazionali",[27] Twentyseven
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV 2000" tvg-logo="https://i.imgur.com/x7RaK3a.png" group-title="Nazionali",[28] TV 2000
+#EXTINF:-1 tvg-name="TV 2000" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/tv2000.png" tvg-id="TV2000.va" group-title="Nazionali",[28] TV 2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
-#EXTINF:-1 tvg-id="LA7d.it" tvg-name="La7 Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/LA7_Cinema_-_Logo_2025.png" group-title="Nazionali",[29] La7 Cinema
+#EXTINF:-1 tvg-name="La7d" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/la7d.png" tvg-id="La7Cinema.it" group-title="Nazionali",[29] La7 Cinema
 https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
 
-#EXTINF:-1 tvg-id="La5.it" tvg-name="La 5" tvg-logo="https://i.imgur.com/UNyJaho.png" group-title="Nazionali",[30] La 5
+#EXTINF:-1 tvg-name="La 5" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/la5.png" tvg-id="La5.it" group-title="Nazionali",[30] La 5
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time" tvg-logo="https://i.imgur.com/9dcTYg1.png" group-title="Nazionali",[31] Real Time
+#EXTINF:-1 tvg-name="Real Time" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/realtime.png" tvg-id="RealTimeItaly.it" group-title="Nazionali",[31] Real Time
 https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
 
-#EXTINF:-1 tvg-id="QVC.it" tvg-name="QVC" tvg-logo="https://i.imgur.com/Ea7iUX2.png" group-title="Nazionali",[32] QVC
+#EXTINF:-1 tvg-name="QVC" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/qvc.png" tvg-id="QVCItaly.it" group-title="Nazionali",[32] QVC
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 
-#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-name="Food Network" tvg-logo="https://i.imgur.com/i60OYr9.png" group-title="Nazionali",[33] Food Network
+#EXTINF:-1 tvg-name="Food Network" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/foodnetwork.png" tvg-id="FoodNetworkItaly.it" group-title="Nazionali",[33] Food Network
 https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
 
-#EXTINF:-1 tvg-id="Cine34.it" tvg-name="Cine34" tvg-logo="https://i.imgur.com/YyldwhI.png" group-title="Nazionali",[34] Cine34
+#EXTINF:-1 tvg-name="Cine34" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/cine34.png" tvg-id="Cine34.it" group-title="Nazionali",[34] Cine34
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="Focus.it" tvg-name="Focus" tvg-logo="https://i.imgur.com/M4smqpF.png" group-title="Nazionali",[35] Focus
+#EXTINF:-1 tvg-name="Focus" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/focus.png" tvg-id="Focus.it" group-title="Nazionali",[35] Focus
 https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="RTL1025TV.it" tvg-name="RTL 102.5" tvg-logo="https://i.imgur.com/KdissvS.png" group-title="Nazionali",[36] RTL 102.5
+#EXTINF:-1 tvg-name="RTL 102.5" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/rtl1025.png" tvg-id="RTL1025TV.it" group-title="Nazionali",[36] RTL 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WarnerTV.it" tvg-name="Warner TV" tvg-logo="https://i.imgur.com/5IxIFJ0.png" group-title="Nazionali",[37] Warner TV
+#EXTINF:-1 tvg-id="WarnerTV.it" tvg-name="Warner TV" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/discovery.png" group-title="Nazionali",[37] Discovery
 https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
 
-#EXTINF:-1 tvg-id="Giallo.it" tvg-name="Giallo" tvg-logo="https://i.imgur.com/0PIRwZS.png" group-title="Nazionali",[38] Giallo
+#EXTINF:-1 tvg-name="Giallo" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/giallo.png" tvg-id="Giallo.it" group-title="Nazionali",[38] Giallo
 https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8
 
-#EXTINF:-1 tvg-id="TopCrime.it" tvg-name="Top Crime" tvg-logo="https://i.imgur.com/RFIwv9O.png" group-title="Nazionali",[39] Top Crime
+#EXTINF:-1 tvg-name="Top Crime" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/topcrime.png" tvg-id="TopCrime.it" group-title="Nazionali",[39] Top Crime
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing" tvg-logo="https://upload.wikimedia.org/wikipedia/it/b/b2/Boing_logo_2020.png" group-title="Nazionali",[40] Boing
+#EXTINF:-1 tvg-name="Boing" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/boing.png" tvg-id="BoingItaly.it" group-title="Nazionali",[40] Boing
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="K2.it" tvg-name="K2" tvg-logo="https://i.imgur.com/wlLgSiA.png" group-title="Nazionali",[41] K2
+#EXTINF:-1 tvg-name="K2" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/k2.png" tvg-id="K2.it" group-title="Nazionali",[41] K2
 https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8
 
-#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="Rai Gulp" tvg-logo="https://i.imgur.com/lu1DPVb.png" group-title="Nazionali",[42] Rai Gulp
+#EXTINF:-1 tvg-name="Rai Gulp" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/raigulp.png" tvg-id="RaiGulp.it" group-title="Nazionali",[42] Rai Gulp
 https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-HLS8/raigulp.m3u8
 
-#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="Rai YoYo" tvg-logo="https://i.imgur.com/DRSa3ys.png" group-title="Nazionali",[43] Rai YoYo
+#EXTINF:-1 tvg-name="Rai YoYo" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/raiyoyo.png" tvg-id="RaiYoyo.it" group-title="Nazionali",[43] Rai YoYo
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=rainet/4.0.5
 
-#EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee" tvg-logo="https://i.imgur.com/9y1zIAe.png" group-title="Nazionali",[44] Frisbee
+#EXTINF:-1 tvg-name="Frisbee" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/frisbee.png" tvg-id="Frisbee.it" group-title="Nazionali",[44] Frisbee
 https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
 
-#EXTINF:-1 tvg-id="BoingPlus.it" tvg-name="Boing Plus ?" tvg-logo="https://upload.wikimedia.org/wikipedia/it/b/b2/Boing_logo_2020.png" group-title="Nazionali",[45] Boing Plus ?
-http://
-
-#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito" tvg-logo="https://i.imgur.com/oK2DcDJ.png" group-title="Nazionali",[46] Cartoonito
+#EXTINF:-1 tvg-name="Cartoonito" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/cartoonito.png" tvg-id="CartoonitoItaly.it" group-title="Nazionali",[46] Cartoonito
 https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="Super.it" tvg-name="Super!" tvg-logo="https://i.imgur.com/1124YEp.png" group-title="Nazionali",[47] Super!
+#EXTINF:-1 tvg-name="Super!" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/super.png" tvg-id="Super.it" group-title="Nazionali",[47] Super!
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RaiNews24.it" tvg-name="Rai News 24" tvg-logo="https://i.imgur.com/gdzGwB6.png" group-title="Nazionali",[48] Rai News 24
+#EXTINF:-1 tvg-name="Rai News 24" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/rainews24.png" tvg-id="RaiNews24.it" group-title="Nazionali",[48] Rai News 24
 https://viamotionhsi.netplus.ch/live/eds/rainews/browser-HLS8/rainews.m3u8
 
-#EXTINF:-1 tvg-id="Italia2.it" tvg-name="Italia 2" tvg-logo="https://img-prod-api2.mediasetplay.mediaset.it/api/images/cu/v3/aHR0cHM6Ly9zdGF0aWMyLm1lZGlhc2V0cGxheS5tZWRpYXNldC5pdC9tYW0vMjAyMS8wMy8zMC8xNzA1MTk0ODgtMDJkNTBkNjUtY2M1Zi00MzJlLWFjZjUtODMyODhjM2E5M2FlLnBuZw/editorial_image_channel_logo/64/64?r=6" group-title="Nazionali",[49] Italia 2
+#EXTINF:-1 tvg-name="Italia 2" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/italia2.png" tvg-id="Italia2.it" group-title="Nazionali",[49] Italia 2
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="Sky TG24" tvg-logo="https://i.imgur.com/q4d3Dah.png" group-title="Nazionali",[50] Sky TG24
+#EXTINF:-1 tvg-name="Sky TG24" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/skytg24.png" tvg-id="SkyTG24.it" group-title="Nazionali",[50] Sky TG24
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
-#EXTINF:-1 tvg-id="TGCom24.it" tvg-name="TGCOM 24" tvg-logo="https://i.imgur.com/xautVD8.png" group-title="Nazionali",[51] TGCOM 24
+#EXTINF:-1 tvg-name="TGCOM 24" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/tgcom24.png" tvg-id="TGCom24.it" group-title="Nazionali",[51] TGCOM 24
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX" tvg-logo="https://i.imgur.com/dmEmRX7.png" group-title="Nazionali",[52] DMAX
+#EXTINF:-1 tvg-name="DMAX" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/dmax.png" tvg-id="DMAXItaly.it" group-title="Nazionali",[52] DMAX
 https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
 
-#EXTINF:-1 tvg-id="UniNettunoUniversityTV.it" tvg-name="UniNettuno University TV" tvg-logo="https://i.imgur.com/BOGMeio.png" group-title="Nazionali",[53] UniNettuno University TV
-https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Storia" tvg-logo="https://i.imgur.com/K8y5q8x.png" group-title="Nazionali",[54] Rai Storia
+#EXTINF:-1 tvg-name="Rai Storia" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/raistoria.png" tvg-id="RaiStoria.it" group-title="Nazionali",[54] Rai Storia
 https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-HLS8/raistoria.m3u8
 
-#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="Mediaset Extra" tvg-logo="https://i.imgur.com/mM8lopo.png" group-title="Nazionali",[55] Mediaset Extra
+#EXTINF:-1 tvg-name="Mediaset Extra" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/mediasetextra.png" tvg-id="MediasetExtra.it" group-title="Nazionali",[55] Mediaset Extra
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV" tvg-logo="https://i.imgur.com/emLNC0U.png" group-title="Nazionali",[56] HGTV
+#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/hgtv.png" tvg-id="HGTVItaly.it" group-title="Nazionali",[56] HGTV
 https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
 
-#EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="Rai Scuola" tvg-logo="https://i.imgur.com/tmtJW6s.png" group-title="Nazionali",[57] Rai Scuola
+#EXTINF:-1 tvg-name="Rai Scuola" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/raiscuola.png" tvg-id="RaiScuola.it" group-title="Nazionali",[57] Rai Scuola
 https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-HLS8/raiscuola.m3u8
 
-#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport" tvg-logo="https://i.imgur.com/xsGljsb.png" group-title="Nazionali",[58] Rai Sport
+#EXTINF:-1 tvg-name="Rai Sport" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/raisport.png" tvg-id="RaiSport.it" group-title="Nazionali",[58] Rai Sport
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8
 
-#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="Motor Trend" tvg-logo="https://i.imgur.com/ipj2H0n.png" group-title="Nazionali",[59] Motor Trend
+#EXTINF:-1 tvg-name="Motor Trend" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/discoveryturbo.png" tvg-id="MotorTrend.it" group-title="Nazionali",[59] Discovery Turbo
 https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
 
-#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia Plus" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Nazionali",[60] Sportitalia Plus
-https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="il61" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/il61.png" tvg-id="IL61.it" group-title="Nazionali",[61] il61
+https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TravelTV.it" tvg-name="Travel TV" tvg-logo="https://i.imgur.com/aXAUyLN.png" group-title="Nazionali",[61] Travel TV
-https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DonnaTV.it" tvg-name="Donna TV" tvg-logo="https://i.imgur.com/Aa1Abme.png" group-title="Nazionali",[62] Donna TV
+#EXTINF:-1 tvg-name="Donna TV" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/donnatv.png" tvg-id="DonnaTV.it" group-title="Nazionali",[62] Donna TV
 https://5a1178b42cc03.streamlock.net/donnatv/donnatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canale63.it" tvg-name="Canale 63 ?" tvg-logo="" group-title="Nazionali",[63] Canale 63 ?
-http://
-
-#EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="SuperTennis" tvg-logo="https://i.imgur.com/GzsPlbX.png" group-title="Nazionali",[64] SuperTennis
+#EXTINF:-1 tvg-name="SuperTennis" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/supertennis.png" tvg-id="SuperTennis.it" group-title="Nazionali",[64] SuperTennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 
-#EXTINF:-1 tvg-id="AlmaTV.it" tvg-name="Alma TV" tvg-logo="https://i.imgur.com/Y8JiDwN.png" group-title="Nazionali",[65] Alma TV
-https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Radio105TV.it" tvg-name="Radio 105 TV" tvg-logo="https://i.imgur.com/3NiLKvj.png" group-title="Nazionali",[66] Radio 105 TV
-https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
-
-#EXTINF:-1 tvg-id="R101TV.it" tvg-name="R101 TV" tvg-logo="https://i.imgur.com/mWeEa9T.png" group-title="Nazionali",[67] R101 TV
-https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
-
-#EXTINF:-1 tvg-id="BOMChannel.it" tvg-name="BOM Channel" tvg-logo="https://i.imgur.com/hISoOK3.png" group-title="Nazionali",[68] BOM Channel
-https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DeejayTV.it" tvg-name="Deejay TV" tvg-logo="https://i.imgur.com/rlaKH6k.png" group-title="Nazionali",[69] Deejay TV
+#EXTINF:-1 tvg-name="Deejay TV" tvg-logo="https://i.imgur.com/rlaKH6k.png" tvg-id="DeejayTV.it" group-title="Nazionali",[69] Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RadioItaliaTV.it" tvg-name="RadioItaliaTV" tvg-logo="https://i.imgur.com/4VCEJuJ.png" group-title="Nazionali",[70] RadioItaliaTV
+#EXTINF:-1 tvg-name="RadioItaliaTV" tvg-logo="https://i.imgur.com/4VCEJuJ.png" tvg-id="RadioItaliaTV.it" group-title="Nazionali",[70] RadioItaliaTV
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+
+#EXTINF:-1 tvg-name="Radio KISS KISS TV" tvg-logo="https://i.imgur.com/UTStxDW.png" tvg-id="KissKissTV.it" group-title="Nazionali",Radio KISS KISS TV
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Rai Radio 2 Visual Radio" tvg-logo="https://i.imgur.com/nVBet0h.png" tvg-id="RaiRadio2Visual.it" group-title="Nazionali",Rai Radio 2 Visual Radio
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=rainet/4.0.5
+
+#EXTINF:-1 tvg-name="RTL 102.5 Traffic" tvg-logo="https://i.imgur.com/GH7byqm.jpeg" tvg-id="RTL1025Traffic.it" group-title="Nazionali",RTL 102.5 Traffic
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Rai 4K " tvg-logo="https://i.imgur.com/5gkt9DD.png" tvg-id="Rai4K.it" group-title="Nazionali",Rai 4K 
+https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+
+
+#EXTINF:-1 tvg-name="Rai Radio 2 Visual Radio" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/rairadio2visualradio.png" tvg-id="RaiRadio2Visual.it" group-title="Nazionali",[202] Rai Radio 2 Visual Radio
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=rainet/4.0.5
+
+
+# Nazionali NON LCN certa / non DTT nazionale -------------------------------
+# (lasciati in fondo, senza numerazione)
+
+
+#EXTINF:-1 tvg-name="Alma TV" tvg-logo="https://i.imgur.com/Y8JiDwN.png" tvg-id="AlmaTV.it" group-title="Nazionali",Alma TV
+https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Travel TV" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/traveltv.png" tvg-id="TravelTV.it" group-title="Nazionali",Travel TV
+https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
+
+
+#EXTINF:-1 tvg-name="Radio 105 TV " tvg-logo="https://i.imgur.com/3NiLKvj.png" tvg-id="Radio105TV.it" group-title="Nazionali",Radio 105 TV 
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="R101 TV " tvg-logo="https://i.imgur.com/mWeEa9T.png" tvg-id="R101TV.it" group-title="Nazionali",R101 TV 
+https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
+
+
+#EXTINF:-1 tvg-name="Travel TV" tvg-logo="https://i.imgur.com/aXAUyLN.png" tvg-id="TravelTV.it" group-title="Nazionali",Travel TV
+https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
+
+
+#EXTINF:-1 tvg-name="MAN-GA" tvg-logo="https://i.imgur.com/8a6WYU2.png" tvg-id="Manga.it" group-title="Nazionali",MAN-GA
+https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Radio24-IlSole24OreTV" tvg-logo="https://i.imgur.com/NTqrdWW.png" tvg-id="Radio24TV.it" group-title="Nazionali",Radio24-IlSole24OreTV
+https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
+
+#EXTINF:-1 tvg-name="BeJoy.Kids" tvg-logo="https://i.imgur.com/zuR9Go5.png" tvg-id="BeJoyKids.it" group-title="Nazionali",BeJoy.Kids
+https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Gambero Rosso" tvg-logo="https://i.imgur.com/RApMW5x.png" tvg-id="GamberoRosso.it" group-title="Nazionali",Gambero Rosso
+https://2018f6355a15442ebb37007fa4f6c064.msvdn.net/live/S7530969/XWerenuxbSdW/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RadioFreccia" tvg-logo="https://i.imgur.com/J5N9F7Z.png" tvg-id="RadioFrecciaTV.it" group-title="Nazionali",RadioFreccia
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RDS Social TV" tvg-logo="https://i.imgur.com/TY6FhqI.png" tvg-id="RDSSocialTV.it" group-title="Nazionali",RDS Social TV
+https://stream.rdstv.radio/index.m3u8
+
+#EXTINF:-1 tvg-name="Radio ZETA" tvg-logo="https://i.imgur.com/0MgCm1n.png" tvg-id="RadioZetaTV.it" group-title="Nazionali",Radio ZETA
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Radio TV Serie A con RDS" tvg-logo="https://i.imgur.com/NzDeCIx.png" tvg-id="RadioTVSerieA.it" group-title="Nazionali",Radio TV Serie A con RDS
+https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
+
+#EXTINF:-1 tvg-name="Sportitalia SOLOCALCIO" tvg-logo="https://i.imgur.com/hu56Ya5.png" tvg-id="SportitaliaSolocalcio.it" group-title="Nazionali",Sportitalia SOLOCALCIO
+https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BIKE Channel" tvg-logo="https://i.imgur.com/4IzVSQI.png" tvg-id="Bike.it" group-title="Nazionali",BIKE Channel
+https://stream.prod-01.milano.nxmedge.net/argocdn/bikechannel/video.m3u8
+
+#EXTINF:-1 tvg-name="Radio Montecarlo TV " tvg-logo="https://i.imgur.com/3TMMXmS.png" tvg-id="RadioMonteCarloTV.it" group-title="Nazionali",Radio Montecarlo TV 
+https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="Virgin Radio TV " tvg-logo="https://i.imgur.com/7Im3HI1.png" tvg-id="VirginRadioTV.it" group-title="Nazionali",Virgin Radio TV 
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="Senato TV" tvg-logo="https://i.imgur.com/FoQoNZW.png" tvg-id="SenatoTV.it" group-title="Nazionali",Senato TV
+https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Camera dei Deputati Ⓢ" tvg-logo="https://i.imgur.com/fqGn1k9.png" tvg-id="CameradeiDeputati.it" group-title="Nazionali",Camera dei Deputati Ⓢ
+https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
+
+
