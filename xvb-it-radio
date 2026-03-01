@@ -1,0 +1,187 @@
+#EXTM3U 
+
+# Radio IT -------------------------
+
+# Rai Radio 1
+#EXTINF:-1 tvg-name="Rai Radio 1" tvg-logo="https://www.radio.it/175/rairadiouno.png" tvg-id="RaiRadio1.it" group-title="Radio IT",Rai Radio 1
+https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S18493106/rCMKqdMFKPBB/icecast
+
+# Rai Radio 2
+#EXTINF:-1 tvg-name="Rai Radio 2" tvg-logo="https://www.radio.it/175/rairadiodue.png" tvg-id="RaiRadio2.it" group-title="Radio IT",Rai Radio 2
+https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S35942484/yp5F67151K92/icecast
+
+# Rai Radio 3
+#EXTINF:-1 tvg-name="Rai Radio 3" tvg-logo="https://www.radio.it/175/rairadiotre.jpeg" tvg-id="RaiRadio3.it" group-title="Radio IT",Rai Radio 3
+https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S56630579/yEbkcBtIoSwd/icecast
+
+# Rai Isoradio
+#EXTINF:-1 tvg-name="Rai Isoradio" tvg-logo="https://www.radio.it/175/raiisoradio.png" tvg-id="RaiIsoradio.it" group-title="Radio IT",Rai Isoradio
+https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S3822289/9T4F68Q3TT4m/icecast
+
+# Rai GR Parlamento
+#EXTINF:-1 tvg-name="Rai GR Parlamento" tvg-logo="https://www.radio.it/175/raigrparlamento.png" tvg-id="RaiGRParlamento.it" group-title="Radio IT",Rai GR Parlamento
+https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S32576004/GxPKuXIdZBcL/icecast
+
+# Radio 105
+#EXTINF:-1 tvg-name="Radio 105" tvg-logo="https://www.radio.it/175/radio105fmit.png" tvg-id="Radio105.it" group-title="Radio IT",Radio 105
+https://icy.unitedradio.it/Radio105.mp3
+
+# Radio Sportiva
+#EXTINF:-1 tvg-name="Radio Sportiva" tvg-logo="https://www.radio.it/175/radiosportiva.png" tvg-id="RadioSportiva.it" group-title="Radio IT",Radio Sportiva
+https://onair20.xdevel.com/proxy/radiosportiva?mp=/;
+
+# Radio 24
+#EXTINF:-1 tvg-name="Radio 24" tvg-logo="https://www.radio.it/175/ilsole24ore.jpeg" tvg-id="Radio24.it" group-title="Radio IT",Radio 24
+https://ilsole24ore-radio.akamaized.net/hls/live/2035301/radio24/playlist-64000.m3u8?_HLS_skip=YES
+
+# Radio Freccia
+#EXTINF:-1 tvg-name="Radio Freccia" tvg-logo="https://www.radio.it/175/radiofreccia.png" tvg-id="RadioFreccia.it" group-title="Radio IT",Radio Freccia
+https://streamcdnf25-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_audio.m3u8
+
+# RDS
+#EXTINF:-1 tvg-name="RDS 100% Grandi Successi" tvg-logo="https://www.radio.it/100/rds.png" tvg-id="RDSRadio.it" group-title="Radio IT",RDS 100% Grandi Successi
+https://stream.rds.radio/audio/rds.stream_aac/chunklist.m3u8
+
+# Radio Deejay
+#EXTINF:-1 tvg-name="Radio Deejay" tvg-logo="https://www.radio.it/175/deejayit.jpeg" tvg-id="RadioDeejay.it" group-title="Radio IT",Radio Deejay
+https://streamcdnm15-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/play1.m3u8
+
+# Radio Italia
+#EXTINF:-1 tvg-name="Radio Italia SMI" tvg-logo="https://www.radio.it/100/radioitalia.png" tvg-id="RadioItaliaSMI.it" group-title="Radio IT",Radio Italia SMI
+https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8
+
+# Radio m2o
+#EXTINF:-1 tvg-name="Radio m2o" tvg-logo="https://www.radio.it/175/m2o.png" tvg-id="RadioM2O.it" group-title="Radio IT",Radio m2o
+https://streamcdnm15-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/play1.m3u8
+
+# Radio Capital
+#EXTINF:-1 tvg-name="Radio Capital" tvg-logo="https://www.radio.it/100/capital.png" tvg-id="RadioCapital.it" group-title="Radio IT",Radio Capital
+https://streamcdng14-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/play1.m3u8
+
+# R101
+#EXTINF:-1 tvg-name="R101" tvg-logo="https://www.radio.it/100/r101milan.png" tvg-id="R101.it" group-title="Radio IT",R101
+https://icy.unitedradio.it/r101_mp3
+
+# Radio Kiss Kiss
+#EXTINF:-1 tvg-name="Radio Kiss Kiss" tvg-logo="https://www.radio.it/100/kisskisshistoryhits.png" tvg-id="KissKiss.it" group-title="Radio IT",Radio Kiss Kiss
+https://wma08.fluidstream.net:8080/KissKiss.mp3
+
+# Virgin Radio
+#EXTINF:-1 tvg-name="Virgin Radio" tvg-logo="https://www.radio.it/100/virginradioitaly.png" tvg-id="VirginRadio.it" group-title="Radio IT",Virgin Radio
+https://icecast.unitedradio.it/Virgin.mp3
+
+# Radio Monte Carlo
+#EXTINF:-1 tvg-name="Radio Monte Carlo" tvg-logo="https://www.radio.it/100/montecarlobossanova.png" tvg-id="RMC.it" group-title="Radio IT",Radio Monte Carlo
+https://icy.unitedradio.it/RMC.mp3
+
+# Radio Radicale
+#EXTINF:-1 tvg-name="Radio Radicale" tvg-logo="https://www.radio.it/100/radicale.png" tvg-id="RadioRadicale.it" group-title="Radio IT",Radio Radicale
+https://live.radioradicale.it/live.mp3
+
+# Radio Zeta
+#EXTINF:-1 tvg-name="Radio Zeta" tvg-logo="https://www.radio.it/100/zeta.png" tvg-id="RadioZeta.it" group-title="Radio IT",Radio Zeta
+https://streamingv2.shoutcast.com/radio-zeta
+
+# Radio Subasio
+#EXTINF:-1 tvg-name="Radio Subasio" tvg-logo="https://www.google.com/s2/favicons?domain=radiosubasio.it&sz=256" tvg-id="Subasio.it" group-title="Radio IT",Radio Subasio
+https://icy.unitedradio.it/Subasio.mp3
+
+# Xdevel Stream (sconosciuto) - Radio Bruno
+#EXTINF:-1 tvg-name="Xdevel Stream" tvg-logo="https://www.google.com/s2/favicons?domain=radiobruno.it&sz=256" tvg-id="radiobruno.it" group-title="Radio IT",Radio Bruno
+https://stream1.xdevel.com/audio7s975355-282/stream/icecast.audio
+
+# Radio Birikina
+#EXTINF:-1 tvg-name="Radio Birikina" tvg-logo="https://www.google.com/s2/favicons?domain=birikina.it&sz=256" tvg-id="Birikina.it" group-title="Radio IT",Radio Birikina
+https://ice02.fluidstream.net/birikina.mp3
+
+# Radio Number One
+#EXTINF:-1 tvg-name="Radio Number One" tvg-logo="https://www.google.com/s2/favicons?domain=radionumberone.it&sz=256" tvg-id="RadioNumberOne.it" group-title="Radio IT",Radio Number One
+https://ice18.fluidstream.net/area07.mp3
+
+# Radio Margherita
+#EXTINF:-1 tvg-name="Radio Margherita" tvg-logo="https://www.google.com/s2/favicons?domain=radiomargherita.com&sz=256" tvg-id="RadioMargherita.it" group-title="Radio IT",Radio Margherita
+https://streaming.radiomargherita.com/stream/radiomargherita
+
+# Radionorba
+#EXTINF:-1 tvg-name="Radionorba" tvg-logo="https://www.google.com/s2/favicons?domain=radionorba.it&sz=256" tvg-id="Radionorba.it" group-title="Radio IT",Radionorba
+https://stream3.xdevel.com/audio0s975885-1008/stream/icecast.audio
+
+# ACI Infomobility
+#EXTINF:-1 tvg-name="ACI Infomobility" tvg-logo="https://www.google.com/s2/favicons?domain=aci.it&sz=256" tvg-id="ACIInfomobility.it" group-title="Radio IT",ACI Infomobility
+https://nr7.newradio.it:19353/stream
+
+# RAI Radio Classica
+#EXTINF:-1 tvg-name="RAI Radio Classica" tvg-logo="https://www.google.com/s2/favicons?domain=rai.it&sz=256" tvg-id="RaiRadioClassica.it" group-title="Radio IT",RAI Radio Classica
+https://icestreaming.rai.it/5.mp3
+
+# RAI Radio 1 Sport
+#EXTINF:-1 tvg-name="RAI Radio 1 Sport" tvg-logo="https://www.google.com/s2/favicons?domain=rai.it&sz=256" tvg-id="RaiRadio1Sport.it" group-title="Radio IT",RAI Radio 1 Sport
+https://icestreaming.rai.it/14.mp3
+
+# Radio Company
+#EXTINF:-1 tvg-name="Radio Company" tvg-logo="https://www.google.com/s2/favicons?domain=radiocompany.com&sz=256" tvg-id="RadioCompany.it" group-title="Radio IT",Radio Company
+https://sphera.fluidstream.eu/company.mp3?FLID=1
+
+# Disco Radio (HLS)
+#EXTINF:-1 tvg-name="Disco Radio" tvg-logo="https://www.google.com/s2/favicons?domain=discoradio.it&sz=256" tvg-id="DiscoRadio.it" group-title="Radio IT",Disco Radio
+https://stream.discoradio.radio/audio/disco.stream_aac/playlist.m3u8
+
+# Radio Nostalgia
+#EXTINF:-1 tvg-name="Radio Nostalgia" tvg-logo="https://www.google.com/s2/favicons?domain=radionostalgia.it&sz=256" tvg-id="RadioNostalgia.it" group-title="Radio IT",Radio Nostalgia
+https://rn1.fluidstream.eu/nostalgia_pv.mp3
+
+# Radio LatteMiele
+#EXTINF:-1 tvg-name="Radio LatteMiele" tvg-logo="https://www.google.com/s2/favicons?domain=lattemiele.com&sz=256" tvg-id="LatteMiele.it" group-title="Radio IT",Radio LatteMiele
+https://sr15.inmystream.it/stream/lattemiele
+
+# Giornale Radio
+#EXTINF:-1 tvg-name="Giornale Radio" tvg-logo="https://www.google.com/s2/favicons?domain=giornaleradio.fm&sz=256" tvg-id="GiornaleRadio.it" group-title="Radio IT",Giornale Radio
+https://gr.fluidstream.eu/gr1.mp3?FLID=8&type=.mp3&aw_0_req.gdpr=true&type=.mp3
+
+# Radio Sorriso
+#EXTINF:-1 tvg-name="Radio Sorriso" tvg-logo="https://www.google.com/s2/favicons?domain=radiosorriso.it&sz=256" tvg-id="RadioSorriso.it" group-title="Radio IT",Radio Sorriso
+https://ice02.fluidstream.net/sorriso.mp3
+
+# Radio Globo
+#EXTINF:-1 tvg-name="Radio Globo" tvg-logo="https://www.google.com/s2/favicons?domain=radioglobo.it&sz=256" tvg-id="RadioGlobo.it" group-title="Radio IT",Radio Globo
+https://globo.newradio.it/globorm64
+
+# Dimensione Suono Soft (HLS)
+#EXTINF:-1 tvg-name="Dimensione Suono Soft" tvg-logo="https://www.google.com/s2/favicons?domain=dimensionesuonosoft.radio&sz=256" tvg-id="DimensioneSuonoSoft.it" group-title="Radio IT",Dimensione Suono Soft
+https://stream.dimensionesuonosoft.radio/audio/dssc.stream_aac64/playlist.m3u8
+
+# Radio Punto Zero Tre Venezie
+#EXTINF:-1 tvg-name="Radio Punto Zero Tre Venezie" tvg-logo="https://www.google.com/s2/favicons?domain=radiopuntozero.it&sz=256" tvg-id="RadioPuntoZeroTreVenezie.it" group-title="Radio IT",Radio Punto Zero Tre Venezie
+https://ice02.fluidstream.net/rpz.mp3
+
+# Radio Marilù
+#EXTINF:-1 tvg-name="Radio Marilù" tvg-logo="https://www.google.com/s2/favicons?domain=radiomarilu.it&sz=256" tvg-id="RadioMarilu.it" group-title="Radio IT",Radio Marilù
+https://ice02.fluidstream.net/marilu.mp3
+
+# Radio NBC Rete Regione
+#EXTINF:-1 tvg-name="Radio NBC Rete Regione" tvg-logo="https://www.google.com/s2/favicons?domain=radionbc.it&sz=256" tvg-id="RadioNBC.it" group-title="Radio IT",Radio NBC Rete Regione
+https://trentov2.meway.host/live
+
+# Radio Gamma
+#EXTINF:-1 tvg-name="Radio Gamma" tvg-logo="https://www.google.com/s2/favicons?domain=radiogamma.it&sz=256" tvg-id="RadioGamma.it" group-title="Radio IT",Radio Gamma
+https://stream10.xdevel.com/audio0s977468-2028/stream/icecast.audio
+
+# Radio Toscana
+#EXTINF:-1 tvg-name="Radio Toscana" tvg-logo="https://www.google.com/s2/favicons?domain=radiotoscana.it&sz=256" tvg-id="RadioToscana.it" group-title="Radio IT",Radio Toscana
+https://sr14.inmystream.it/stream/radiotoscana/stream
+
+# Radio City
+#EXTINF:-1 tvg-name="Radio City" tvg-logo="https://www.google.com/s2/favicons?domain=radiocity.it&sz=256" tvg-id="RadioCity.it" group-title="Radio IT",Radio City
+https://stream10.xdevel.com/audio0s977832-2274/stream/icecast.audio
+
+# Ritmo 80
+#EXTINF:-1 tvg-name="Ritmo 80" tvg-logo="https://www.google.com/s2/favicons?domain=ritmo80.it&sz=256" tvg-id="Ritmo80.it" group-title="Radio IT",Ritmo 80
+https://rh.fluidstream.eu/ritmo80.mp3
+
+# Radio Azzurra
+#EXTINF:-1 tvg-name="Radio Azzurra" tvg-logo="https://www.google.com/s2/favicons?domain=radioazzurra.it&sz=256" tvg-id="RadioAzzurra.it" group-title="Radio IT",Radio Azzurra
+https://ice09.fluidstream.net/fluid0906.mp3?FLID=1&type=.mp3
+
+# RMC 2 Radio Monte Carlo
+#EXTINF:-1 tvg-name="RMC 2 Radio Monte Carlo" tvg-logo="https://www.google.com/s2/favicons?domain=radiomontecarlo.net&sz=256" tvg-id="RMC2.it" group-title="Radio IT",RMC 2 Radio Monte Carlo
+https://stream.rcs.revma.com/fxp289cp81uvv
