@@ -8,6 +8,8 @@ https://rai.zappr.stream/rai2.m3u8
 
 #EXTINF:-1 tvg-id="348.it" tvg-name="Rete 4" tvg-logo="https://channels.zappr.stream/logos/rete4.svg" group-title="DTT",[4] Rete 4
 https://cloudflare-api.zappr.stream/api?url=https://live02-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="348/2.it" tvg-name="Rete 4/2" tvg-logo="https://channels.zappr.stream/logos/rete4.svg" group-title="DTT",[4] Rete 4/2
+https://live02-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="79.it" tvg-name="Canale 5" tvg-logo="https://channels.zappr.stream/logos/canale5.svg" group-title="DTT",[5] Canale 5
 https://cloudflare-api.zappr.stream/api?url=https://live02-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
