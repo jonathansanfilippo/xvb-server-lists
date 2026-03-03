@@ -1,6 +1,7 @@
 #EXTM3U
 # [Source]
-# [01 Mar 2026] Lista Nazionali ordinata per LCN DTT nazionale + pulizia tag HTML
+# #EXTINF:-1 tvg-name="nome" tvg-logo="" tvg-id="id.it" group-title="Nazionali",nome
+# [03 Mar 2026] 
 
 # Nazionali (LCN DTT) -------------------------------
 
@@ -67,7 +68,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Real Time" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/realtime.png" tvg-id="RealTimeItaly.it" group-title="Nazionali",[31] Real Time
 https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
 
-#EXTINF:-1 tvg-name="QVC" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/qvc.png" tvg-id="QVCItaly.it" group-title="Nazionali",[32] QVC
+#EXTINF:-1 tvg-name="QVC" tvg-logo="https://channels.zappr.stream/logos/it/optimized/qvc.svg" tvg-id="QVCItaly.it" group-title="Nazionali",[32] QVC
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 
 #EXTINF:-1 tvg-name="Food Network" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/foodnetwork.png" tvg-id="FoodNetworkItaly.it" group-title="Nazionali",[33] Food Network
@@ -101,10 +102,14 @@ https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-HLS8/raigulp.m3u8
 
 #EXTINF:-1 tvg-name="Rai YoYo" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/raiyoyo.png" tvg-id="RaiYoyo.it" group-title="Nazionali",[43] Rai YoYo
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=rainet/4.0.5
+https://streamcdnm9-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiyoyo1/hls/raiyoyo_2400/chunklist.m3u8?baseuri=/raiyoyo1/hls/&tstart=0&tend=1772610935&tk2=6d8dc0717dba0b4ff7af43ae9d3cba8091f6fab7b76d886d72dd934be482b48a
 
 #EXTINF:-1 tvg-name="Frisbee" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/frisbee.png" tvg-id="Frisbee.it" group-title="Nazionali",[44] Frisbee
 https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
+
+#EXTINF:-1 tvg-name="Boing Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/500px-Boing_Plus_logo_2020.svg.png" tvg-id="BoingPlus.it" group-title="Nazionali",[45] Boing Plus
+https://live02-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
+
 
 #EXTINF:-1 tvg-name="Cartoonito" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/cartoonito.png" tvg-id="CartoonitoItaly.it" group-title="Nazionali",[46] Cartoonito
 https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
@@ -127,6 +132,11 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="DMAX" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/dmax.png" tvg-id="DMAXItaly.it" group-title="Nazionali",[52] DMAX
 https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
 
+
+#EXTINF:-1 tvg-name="casaitalia53" tvg-logo="https://channels.zappr.stream/logos/it/optimized/casaitalia53.svg" tvg-id="casaitalia53.it" group-title="Nazionali",[53] Casa Italia 53
+https://liveac915ha.streamcloud.it/channel09/playlist.m3u8
+
+
 #EXTINF:-1 tvg-name="Rai Storia" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/raistoria.png" tvg-id="RaiStoria.it" group-title="Nazionali",[54] Rai Storia
 https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-HLS8/raistoria.m3u8
 
@@ -145,21 +155,58 @@ https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8
 #EXTINF:-1 tvg-name="Motor Trend" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/discoveryturbo.png" tvg-id="MotorTrend.it" group-title="Nazionali",[59] Discovery Turbo
 https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
 
-#EXTINF:-1 tvg-name="il61" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/il61.png" tvg-id="IL61.it" group-title="Nazionali",[61] il61
+#EXTINF:-1 tvg-name="France 24" tvg-logo="https://channels.zappr.stream/logos/it/optimized/france24.svg" group-title="Nazionali",[235] France 24
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-name="Primavera TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/primaveratv.webp" group-title="Nazionali",[60/1] Primavera TV
+https://distribution.sportitalialive.it/sportitalia/silive24_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SI SoloCalcio" tvg-logo="https://channels.zappr.stream/logos/it/optimized/sisolocalcio.svg" group-title="Nazionali",[60/2] SI SoloCalcio
+https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sportitalia" tvg-logo="https://channels.zappr.stream/logos/it/optimized/sportitalia.svg" group-title="Nazionali",[60/3] Sportitalia
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
+
+#EXTINF:-1 tvg-name="SportOutdoor.tv" tvg-logo="https://channels.zappr.stream/logos/it/optimized/sportoutdoortv.webp" group-title="Nazionali",[60/4] SportOutdoor.tv
+https://5a1178b42cc03.streamlock.net/sportoutdoorstream/sportoutdoorstream/manifest.mpd
+
+
+#EXTINF:-1 tvg-name="il61" tvg-logo="https://channels.zappr.stream/logos/it/optimized/il61.svg" tvg-id="IL61.it" group-title="Nazionali",[61] il61
 https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Donna TV" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/donnatv.png" tvg-id="DonnaTV.it" group-title="Nazionali",[62] Donna TV
 https://5a1178b42cc03.streamlock.net/donnatv/donnatv/playlist.m3u8
 
+#EXTINF:-1 tvg-name="canale63" tvg-logo="https://channels.zappr.stream/logos/it/optimized/canale63.svg" tvg-id="canale63.it" group-title="Nazionali",[63] canale 63
+https://uvotv.zappr.stream/257.m3u8
+
 #EXTINF:-1 tvg-name="SuperTennis" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/supertennis.png" tvg-id="SuperTennis.it" group-title="Nazionali",[64] SuperTennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 
+#EXTINF:-1 tvg-name="Alma TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/almatv.svg" group-title="Nazionali",[65] Alma TV
+https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Deejay TV" tvg-logo="https://i.imgur.com/rlaKH6k.png" tvg-id="DeejayTV.it" group-title="Nazionali",[69] Deejay TV
+#EXTINF:-1 tvg-name="Radio 105 TV " tvg-logo="https://i.imgur.com/3NiLKvj.png" tvg-id="Radio105TV.it" group-title="Nazionali",[66] Radio 105 TV 
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="R101 TV " tvg-logo="https://i.imgur.com/mWeEa9T.png" tvg-id="R101TV.it" group-title="Nazionali",[67] R101 TV 
+https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="BOM Channel" tvg-logo="https://channels.zappr.stream/logos/it/optimized/bomchannel.webp" tvg-id="id.it" group-title="Nazionali",[68] BOM Channel
+https://5f22d76e220e1.streamlock.net/canale6/canale6/manifest.mpd
+#EXTINF:-1 tvg-name="SuperSix" tvg-logo="https://channels.zappr.stream/logos/it/optimized/supersix.webp" group-title="Nazionali",[68] SuperSix
+https://5f22d76e220e1.streamlock.net/supersixnew/supersixnew/manifest.mpd
+#EXTINF:-1 tvg-name="Deejay TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/deejay.svg" tvg-id="DeejayTV.it" group-title="Nazionali",[69] Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 
 #EXTINF:-1 tvg-name="RadioItaliaTV" tvg-logo="https://i.imgur.com/4VCEJuJ.png" tvg-id="RadioItaliaTV.it" group-title="Nazionali",[70] RadioItaliaTV
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+
+#EXTINF:-1 tvg-name="Canale Italia" tvg-logo="https://i.imgur.com/QlwLRyh.png" tvg-id="CanaleItalia.it" group-title="Regionali",[71]Canale Italia
+https://ovp-live.akamaized.net/ac115_live/canale1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Rai 4K " tvg-logo="https://i.imgur.com/5gkt9DD.png" tvg-id="Rai4K.it" group-title="Nazionali",[101] Rai 4K 
+https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Radio KISS KISS TV" tvg-logo="https://i.imgur.com/UTStxDW.png" tvg-id="KissKissTV.it" group-title="Nazionali",Radio KISS KISS TV
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
@@ -170,31 +217,14 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&for
 #EXTINF:-1 tvg-name="RTL 102.5 Traffic" tvg-logo="https://i.imgur.com/GH7byqm.jpeg" tvg-id="RTL1025Traffic.it" group-title="Nazionali",RTL 102.5 Traffic
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Rai 4K " tvg-logo="https://i.imgur.com/5gkt9DD.png" tvg-id="Rai4K.it" group-title="Nazionali",Rai 4K 
-https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
-
+#EXTINF:-1 tvg-name="Ottcast 4K Ultra HD" tvg-logo="https://channels.zappr.stream/logos/it/optimized/ottcast4kultrahd.webp" group-title="Nazionali",[227] Ottcast 4K Ultra HD
+https://host1.momentotv.live:28443/cmaf/demo4k/manifest.mpd
 
 #EXTINF:-1 tvg-name="Rai Radio 2 Visual Radio" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/rairadio2visualradio.png" tvg-id="RaiRadio2Visual.it" group-title="Nazionali",[202] Rai Radio 2 Visual Radio
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=rainet/4.0.5
 
-
-# Nazionali NON LCN certa / non DTT nazionale -------------------------------
-# (lasciati in fondo, senza numerazione)
-
-
-#EXTINF:-1 tvg-name="Alma TV" tvg-logo="https://i.imgur.com/Y8JiDwN.png" tvg-id="AlmaTV.it" group-title="Nazionali",Alma TV
-https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Travel TV" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/traveltv.png" tvg-id="TravelTV.it" group-title="Nazionali",Travel TV
-https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
-
-
-#EXTINF:-1 tvg-name="Radio 105 TV " tvg-logo="https://i.imgur.com/3NiLKvj.png" tvg-id="Radio105TV.it" group-title="Nazionali",Radio 105 TV 
-https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
-
-#EXTINF:-1 tvg-name="R101 TV " tvg-logo="https://i.imgur.com/mWeEa9T.png" tvg-id="R101TV.it" group-title="Nazionali",R101 TV 
-https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
-
+#EXTINF:-1 tvg-name="FF Motorsport" tvg-logo="https://channels.zappr.stream/logos/it/optimized/ffmotorsport.webp" group-title="Nazionali",[227] FF Motorsport
+https://host1.momentotv.live:28443/cmaf/ffmotorsport/index.mpd
 
 #EXTINF:-1 tvg-name="Travel TV" tvg-logo="https://i.imgur.com/aXAUyLN.png" tvg-id="TravelTV.it" group-title="Nazionali",Travel TV
 https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
@@ -206,11 +236,11 @@ https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/p
 #EXTINF:-1 tvg-name="Radio24-IlSole24OreTV" tvg-logo="https://i.imgur.com/NTqrdWW.png" tvg-id="Radio24TV.it" group-title="Nazionali",Radio24-IlSole24OreTV
 https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
 
-#EXTINF:-1 tvg-name="BeJoy.Kids" tvg-logo="https://i.imgur.com/zuR9Go5.png" tvg-id="BeJoyKids.it" group-title="Nazionali",BeJoy.Kids
+#EXTINF:-1 tvg-name="BeJoy.Kids" tvg-logo="https://channels.zappr.stream/logos/it/optimized/bejoykids.webp" group-title="Nazionali",[247] BeJoy.Kids
 https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Gambero Rosso" tvg-logo="https://i.imgur.com/RApMW5x.png" tvg-id="GamberoRosso.it" group-title="Nazionali",Gambero Rosso
-https://2018f6355a15442ebb37007fa4f6c064.msvdn.net/live/S7530969/XWerenuxbSdW/playlist.m3u8
+#EXTINF:-1 tvg-name="Gambero Rosso" tvg-logo="https://channels.zappr.stream/logos/it/optimized/gamberorosso.svg" tvg-id="GamberoRosso.it" group-title="Nazionali",Gambero Rosso
+https://d2gqna20cltcqm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i3rvj12n6zp49/GamberoRosso_IT.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=IT500011RG
 
 #EXTINF:-1 tvg-name="RadioFreccia" tvg-logo="https://i.imgur.com/J5N9F7Z.png" tvg-id="RadioFrecciaTV.it" group-title="Nazionali",RadioFreccia
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist.m3u8
@@ -225,7 +255,7 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/pl
 https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
 
 #EXTINF:-1 tvg-name="Sportitalia SOLOCALCIO" tvg-logo="https://i.imgur.com/hu56Ya5.png" tvg-id="SportitaliaSolocalcio.it" group-title="Nazionali",Sportitalia SOLOCALCIO
-https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
 
 #EXTINF:-1 tvg-name="BIKE Channel" tvg-logo="https://i.imgur.com/4IzVSQI.png" tvg-id="Bike.it" group-title="Nazionali",BIKE Channel
 https://stream.prod-01.milano.nxmedge.net/argocdn/bikechannel/video.m3u8
@@ -243,3 +273,5 @@ https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 
 
+#EXTINF:-1 tvg-name="Sex Factor TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/sexfactortv.webp" group-title="Adulti",[227] Sex Factor TV
+https://host1.momentotv.live:29443/sexfactor/sexfactor/manifest.mpd
