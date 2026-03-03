@@ -1,0 +1,40 @@
+name: Daily build FAST lists
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # 03:00 UTC ogni giorno
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build Samsung TV Plus playlist
+        run: python scripts/build_fast_samsung.py
+
+      - name: Build Pluto TV playlist
+        run: python scripts/build_fast_pluto.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "xvb-b-bot"
+          git config user.email "xvb-b-bot@users.noreply.github.com"
+
+          git add xvb-fast-samsung.m3u xvb-fast-pluto.m3u
+
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+
+          git commit -m "auto update FAST lists"
+          git push
