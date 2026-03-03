@@ -1,0 +1,244 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Canzoni Napoletane" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/canzoninapoletane.webp" tvg-id="canzoninapoletane.it" group-title="Radio",[825] Canzoni Napoletane
+https://streaming.radiomargherita.com:8006/stream
+
+#EXTINF:-1 tvg-name="dance m2o" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/dancem2o.webp" tvg-id="dancem2o.it" group-title="Radio",[715] dance m2o
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2odance/radiom2odance/master_ma.m3u8
+
+#EXTINF:-1 tvg-name="Deejay Time" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/m2odeejaytime.webp" tvg-id="deejaytime.it" group-title="Radio",[715] Deejay Time
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaytime/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Giornale Radio" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/giornaleradio.webp" tvg-id="giornaleradio.it" group-title="Radio",[254] Giornale Radio
+https://gr.fluidstream.eu/gr1.mp3
+
+#EXTINF:-1 tvg-name="Hit 24" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/hit24.webp" tvg-id="hit24.it" group-title="Radio",[254] Hit 24
+https://stream4.xdevel.com/audio1s975889-475/stream/icecast.audio
+
+#EXTINF:-1 tvg-name="InBlu2000" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/inblu2000.svg" tvg-id="inblu2000.it" group-title="Radio",[728] InBlu2000
+https://www.radioinblu.it/live-stream/inblu2000-playlist.m3u8
+
+#EXTINF:-1 tvg-name="Italia News 24" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/italianews24.webp" tvg-id="italianews24.it" group-title="Radio",[254] Italia News 24
+https://stream6.xdevel.com/audio6s975889-649/stream/icecast.audio
+
+#EXTINF:-1 tvg-name="LifeGate" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/lifegate.svg" tvg-id="lifegate.it" group-title="Radio",[170] LifeGate
+https://stream6.xdevel.com/audio0s975809-425/stream/icecast.audio
+
+#EXTINF:-1 tvg-name="Lombardia TV Vintage" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/lombardiatvvintage.webp" tvg-id="lombardiatvvintage.it" group-title="Radio",[833] Lombardia TV Vintage
+https://onair22.xdevel.com/proxy/xautocloud_vwdr_335?mp=/;stream/;
+
+#EXTINF:-1 tvg-name="MC2 Buddha Bar Collection" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/mc2buddhabarcollection.webp" tvg-id="mc2buddhabarcollection.it" group-title="Radio",[235] MC2 Buddha Bar Collection
+https://stream.rcs.revma.com/h2cwfffp81uvv
+
+#EXTINF:-1 tvg-name="MC2 Cafè Del Mar Collection" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/mc2cafèdelmarcollection.webp" tvg-id="mc2cafdelmarcollection.it" group-title="Radio",[235] MC2 Cafè Del Mar Collection
+https://stream.rcs.revma.com/bn68enmp81uvv
+
+#EXTINF:-1 tvg-name="MC2 Disco Inferno" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/mc2discoinferno.webp" tvg-id="mc2discoinferno.it" group-title="Radio",[235] MC2 Disco Inferno
+https://stream.rcs.revma.com/7akzxppp81uvv
+
+#EXTINF:-1 tvg-name="MC2 Gipsy Lounge" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/mc2gipsylounge.webp" tvg-id="mc2gipsylounge.it" group-title="Radio",[235] MC2 Gipsy Lounge
+https://stream.rcs.revma.com/edg86zmp81uvv
+
+#EXTINF:-1 tvg-name="MC2 Made in Italy" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/mc2madeinitaly.webp" tvg-id="mc2madeinitaly.it" group-title="Radio",[235] MC2 Made in Italy
+https://stream.rcs.revma.com/ht5cpfpp81uvv
+
+#EXTINF:-1 tvg-name="MC2 Montenapoleone" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/mc2montenapoleone.webp" tvg-id="mc2montenapoleone.it" group-title="Radio",[235] MC2 Montenapoleone
+https://stream.rcs.revma.com/x3n887pp81uvv
+
+#EXTINF:-1 tvg-name="MC2 Music" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/mc2music.webp" tvg-id="mc2music.it" group-title="Radio",[235] MC2 Music
+https://stream.rcs.revma.com/tgcfvx8x47uvv
+
+#EXTINF:-1 tvg-name="MC2 New Age" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/mc2newage.webp" tvg-id="mc2newage.it" group-title="Radio",[235] MC2 New Age
+https://stream.rcs.revma.com/6rzxwqfp81uvv
+
+#EXTINF:-1 tvg-name="MC2 Nu Disco" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/mc2nudisco.webp" tvg-id="mc2nudisco.it" group-title="Radio",[235] MC2 Nu Disco
+https://stream.rcs.revma.com/hq40uaep81uvv
+
+#EXTINF:-1 tvg-name="MC2 Planet Rock" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/mc2planetrock.webp" tvg-id="mc2planetrock.it" group-title="Radio",[235] MC2 Planet Rock
+https://stream.rcs.revma.com/w66qp4pp81uvv
+
+#EXTINF:-1 tvg-name="MC2 R&B" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/mc2rnb.webp" tvg-id="mc2randb.it" group-title="Radio",[235] MC2 R&B
+https://stream.rcs.revma.com/c8r7wnnp81uvv
+
+#EXTINF:-1 tvg-name="MC2 Radio Ga-Ga" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/mc2radiogaga.webp" tvg-id="mc2radiogaga.it" group-title="Radio",[235] MC2 Radio Ga-Ga
+https://stream.rcs.revma.com/r84kr6dyt2uvv
+
+#EXTINF:-1 tvg-name="MC2 Revisited" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/mc2revisited.webp" tvg-id="mc2revisited.it" group-title="Radio",[235] MC2 Revisited
+https://stream.rcs.revma.com/00whrwep81uvv
+
+#EXTINF:-1 tvg-name="MC2 Smooth Jazz" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/mc2smoothjazz.webp" tvg-id="mc2smoothjazz.it" group-title="Radio",[235] MC2 Smooth Jazz
+https://stream.rcs.revma.com/4t617kep81uvv
+
+#EXTINF:-1 tvg-name="MC2 Stereo 90" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/mc2stereo90.webp" tvg-id="mc2stereo90.it" group-title="Radio",[235] MC2 Stereo 90
+https://stream.rcs.revma.com/bbfghcqh242vv
+
+#EXTINF:-1 tvg-name="MC2 Tango Lounge" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/mc2tangolounge.webp" tvg-id="mc2tangolounge.it" group-title="Radio",[235] MC2 Tango Lounge
+https://stream.rcs.revma.com/s6r798qgcg3vv
+
+#EXTINF:-1 tvg-name="MC2 Tiffany" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/mc2tiffany.webp" tvg-id="mc2tiffany.it" group-title="Radio",[235] MC2 Tiffany
+https://stream.rcs.revma.com/ksvn8tpp81uvv
+
+#EXTINF:-1 tvg-name="MC2 TXT" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/mc2txt.webp" tvg-id="mc2txt.it" group-title="Radio",[235] MC2 TXT
+https://stream.rcs.revma.com/867pnhne54uvv
+
+#EXTINF:-1 tvg-name="MC2 Unforgettable" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/mc2unforgettable.webp" tvg-id="mc2unforgettable.it" group-title="Radio",[235] MC2 Unforgettable
+https://stream.rcs.revma.com/nt1qhvnp81uvv
+
+#EXTINF:-1 tvg-name="No Name Radio" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/nonameradio.svg" tvg-id="nonameradio.it" group-title="Radio",[712] No Name Radio
+https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S83071577/rgoEkNqrs3Lf/icecast
+
+#EXTINF:-1 tvg-name="onetwo onetwo" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/m2oonetwoonetwo.webp" tvg-id="onetwoonetwo.it" group-title="Radio",[715] onetwo onetwo
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejayonetwoonetwo/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Play Radio" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/playradio.webp" tvg-id="playradio.it" group-title="Radio",[254] Play Radio
+https://ns3159873.ip-51-91-131.eu:2000/stream/playradio
+
+#EXTINF:-1 tvg-name="R101" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/r101.svg" tvg-id="r101.it" group-title="Radio",[771] R101
+https://icecast.unitedradio.it/r101
+
+#EXTINF:-1 tvg-name="Radio 105" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/radio105.svg" tvg-id="radio105.it" group-title="Radio",[785] Radio 105
+https://icecast.unitedradio.it/Radio105.mp3
+
+#EXTINF:-1 tvg-name="Radio Arcobaleno" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/radioarcobaleno.webp" tvg-id="radioarcobaleno.it" group-title="Radio",[825] Radio Arcobaleno
+https://streaming.radiomargherita.com/stream/radioarcobaleno
+
+#EXTINF:-1 tvg-name="Radio Capital" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/radiocapital.svg" tvg-id="radiocapital.it" group-title="Radio",[713] Radio Capital
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/master_ma2.m3u8
+
+#EXTINF:-1 tvg-name="Radio Company" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/radiocompany.webp" tvg-id="radiocompany.it" group-title="Radio",[235] Radio Company
+https://msphera.fluidstream.eu/company.aac
+
+#EXTINF:-1 tvg-name="Radio Deejay" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/deejay.svg" tvg-id="radiodeejay.it" group-title="Radio",[714] Radio Deejay
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/master_ma.m3u8
+
+#EXTINF:-1 tvg-name="Radio Emme Lamezia" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/radioennelamezia.webp" tvg-id="radioemmelamezia.it" group-title="Radio",[254] Radio Emme Lamezia
+https://stream5.xdevel.com/audio4s975889-478/stream/icecast.audio
+
+#EXTINF:-1 tvg-name="Radio España Network" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/espananetwork.webp" tvg-id="radioespaanetwork.it" group-title="Radio",[833] Radio España Network
+https://cast3.asurahosting.com/proxy/paolo//stream
+
+#EXTINF:-1 tvg-name="Radio Free Music" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/radiofreemusic.webp" tvg-id="radiofreemusic.it" group-title="Radio",[235] Radio Free Music
+https://listen.radioking.com/radio/412570/stream/465286
+
+#EXTINF:-1 tvg-name="Radio Hashtag" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/radiohashtag.webp" tvg-id="radiohashtag.it" group-title="Radio",[235] Radio Hashtag
+https://radio.latuatv.eu:1065/stream
+
+#EXTINF:-1 tvg-name="Radio Italia" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/radioitalia.svg" tvg-id="radioitalia.it" group-title="Radio",[770] Radio Italia
+https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8
+
+#EXTINF:-1 tvg-name="Radio Italia Network" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/radioitalianetwork.webp" tvg-id="radioitalianetwork.it" group-title="Radio",[254] Radio Italia Network
+https://gr.fluidstream.eu/gr7.mp3
+
+#EXTINF:-1 tvg-name="Radio Italianissima" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/radioitalianissima.webp" tvg-id="radioitalianissima.it" group-title="Radio",[254] Radio Italianissima
+https://stream5.xdevel.com/audio3s975889-477/stream/icecast.audio
+
+#EXTINF:-1 tvg-name="Radio JukeBox" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/radiojukeboxcalabria.webp" tvg-id="radiojukebox.it" group-title="Radio",[254] Radio JukeBox
+https://stream4.xdevel.com/audio0s975889-474/stream/icecast.audio
+
+#EXTINF:-1 tvg-name="Radio m2o" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/m2o.svg" tvg-id="radiom2o.it" group-title="Radio",[715] Radio m2o
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m3u8
+
+#EXTINF:-1 tvg-name="Radio Madeo" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/radiomadeo.webp" tvg-id="radiomadeo.it" group-title="Radio",[833] Radio Madeo
+https://sr14.inmystream.it/stream/radiomadeo
+
+#EXTINF:-1 tvg-name="Radio Margherita" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/radiomargherita.webp" tvg-id="radiomargherita.it" group-title="Radio",[825] Radio Margherita
+https://streaming.radiomargherita.com/stream/radiomargherita
+
+#EXTINF:-1 tvg-name="Radio Margherita Giovane" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/radiomargheritagiovane.webp" tvg-id="radiomargheritagiovane.it" group-title="Radio",[825] Radio Margherita Giovane
+https://streaming.radiomargherita.com:8028/stream
+
+#EXTINF:-1 tvg-name="Radio Maria" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/radiomaria.webp" tvg-id="radiomaria.it" group-title="Radio",[789] Radio Maria
+https://dreamsiteradiocp6.com/proxy/rmusait?mp=/stream
+
+#EXTINF:-1 tvg-name="Radio Monte Carlo" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/radiomontecarlo.webp" tvg-id="radiomontecarlo.it" group-title="Radio",[772] Radio Monte Carlo
+https://icy.unitedradio.it/RMC.mp3
+
+#EXTINF:-1 tvg-name="Radio Montestella" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/radiomontestella.webp" tvg-id="radiomontestella.it" group-title="Radio",[235] Radio Montestella
+https://sr10.inmystream.it/proxy/montestella?mp=/stream
+
+#EXTINF:-1 tvg-name="Radio Montestella" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/radiomontestella.webp" tvg-id="radiomontestella.it" group-title="Radio",[833] Radio Montestella
+https://sr10.inmystream.it/proxy/montestella?mp=/stream
+
+#EXTINF:-1 tvg-name="Radio N Classic" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/radionclassic.webp" tvg-id="radionclassic.it" group-title="Radio",[254] Radio N Classic
+https://ns3159873.ip-51-91-131.eu:2000/stream/radionclassic
+
+#EXTINF:-1 tvg-name="Radio News" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/radionews.webp" tvg-id="radionews.it" group-title="Radio",[254] Radio News
+https://stream5.xdevel.com/audio5s975889-479/stream/icecast.audio
+
+#EXTINF:-1 tvg-name="Radio Podcast" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/radiopodcast.webp" tvg-id="radiopodcast.it" group-title="Radio",[254] Radio Podcast
+https://gr.fluidstream.eu/gr6.mp3
+
+#EXTINF:-1 tvg-name="Radio Ricordi" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/radioricordi.webp" tvg-id="radioricordi.it" group-title="Radio",[254] Radio Ricordi
+https://stream1.xdevel.com/audio2s975889-476/stream/icecast.audio
+
+#EXTINF:-1 tvg-name="Radio Sanremo" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/radiosanremo.webp" tvg-id="radiosanremo.it" group-title="Radio",[235] Radio Sanremo
+https://nr12.newradio.it:8838/stream
+
+#EXTINF:-1 tvg-name="Radio Simpatia" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/radiosimpatia.webp" tvg-id="radiosimpatia.it" group-title="Radio",[254] Radio Simpatia
+https://ns3159873.ip-51-91-131.eu:2000/stream/radiosimpatia
+
+#EXTINF:-1 tvg-name="Radio Studio 107 Milano" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/radiostudio107milano.webp" tvg-id="radiostudio107milano.it" group-title="Radio",[235] Radio Studio 107 Milano
+https://play.radioking.io/studio-107-milano
+
+#EXTINF:-1 tvg-name="Radio Vaticana Italia" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/radiovaticana.svg" tvg-id="radiovaticanaitalia.it" group-title="Radio",[733] Radio Vaticana Italia
+https://radio.vaticannews.va/stream-it
+
+#EXTINF:-1 tvg-name="Radio Venezia" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/radioveneziadab.webp" tvg-id="radiovenezia.it" group-title="Radio",[235] Radio Venezia
+https://nr12.newradio.it:8836/stream
+
+#EXTINF:-1 tvg-name="Radio Zeta" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/radiozeta.svg" tvg-id="radiozeta.it" group-title="Radio",[737] Radio Zeta
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/clhI2IJWRnn7/playlist_audio.m3u8
+
+#EXTINF:-1 tvg-name="Radiofreccia" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/radiofreccia.svg" tvg-id="radiofreccia.it" group-title="Radio",[738] Radiofreccia
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/D6MENOraq6Qy/playlist_audio.m3u8
+
+#EXTINF:-1 tvg-name="Rai GR Parlamento" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/raigrparlamento.svg" tvg-id="raigrparlamento.it" group-title="Radio",[704] Rai GR Parlamento
+https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S32576004/GxPKuXIdZBcL/icecast
+
+#EXTINF:-1 tvg-name="Rai Isoradio" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/raiisoradio.svg" tvg-id="raiisoradio.it" group-title="Radio",[705] Rai Isoradio
+https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S3822289/9T4F68Q3TT4m/icecast
+
+#EXTINF:-1 tvg-name="Rai Radio 1" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/rairadio1.svg" tvg-id="rairadio1.it" group-title="Radio",[701] Rai Radio 1
+https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S16355530/Q4zh3NTu28Rx/icecast
+
+#EXTINF:-1 tvg-name="Rai Radio 1 Sport" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/rairadio1sport.svg" tvg-id="rairadio1sport.it" group-title="Radio",[711] Rai Radio 1 Sport
+https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S74363317/iS9nek7QkZLI/icecast
+
+#EXTINF:-1 tvg-name="Rai Radio 2" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/rairadio2.svg" tvg-id="rairadio2.it" group-title="Radio",[702] Rai Radio 2
+https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S35942484/yp5F67151K92/icecast
+
+#EXTINF:-1 tvg-name="Rai Radio 3" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/rairadio3.svg" tvg-id="rairadio3.it" group-title="Radio",[703] Rai Radio 3
+https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S56630579/yEbkcBtIoSwd/icecast
+
+#EXTINF:-1 tvg-name="Rai Radio 3 Classica" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/rairadio3classica.svg" tvg-id="rairadio3classica.it" group-title="Radio",[706] Rai Radio 3 Classica
+https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S53422322/bTdUFhYMnnra/icecast
+
+#EXTINF:-1 tvg-name="Rai Radio Kids" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/rairadiokids.svg" tvg-id="rairadiokids.it" group-title="Radio",[707] Rai Radio Kids
+https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S94966552/WlznU7GmJkjL/icecast
+
+#EXTINF:-1 tvg-name="Rai Radio Live Napoli" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/rairadiolivenapoli.svg" tvg-id="rairadiolivenapoli.it" group-title="Radio",[708] Rai Radio Live Napoli
+https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S3822289/9T4F68Q3TT4m/icecast
+
+#EXTINF:-1 tvg-name="Rai Radio Techetè" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/rairadiotechetè.svg" tvg-id="rairadiotechet.it" group-title="Radio",[709] Rai Radio Techetè
+https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S12572409/pHatRL4wJml9/icecast
+
+#EXTINF:-1 tvg-name="Rai Radio Tutta Italiana" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/rairadiotuttaitaliana.svg" tvg-id="rairadiotuttaitaliana.it" group-title="Radio",[710] Rai Radio Tutta Italiana
+https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S2444220/HM9xhFhA0riM/icecast
+
+#EXTINF:-1 tvg-name="RDS" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/rds.svg" tvg-id="rds.it" group-title="Radio",[724] RDS
+https://stream.rds.radio/audio/rds.stream_aac/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RMC2" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/rmc2.webp" tvg-id="rmc2.it" group-title="Radio",[235] RMC2
+https://stream.rcs.revma.com/fxp289cp81uvv
+
+#EXTINF:-1 tvg-name="RTL 102.5" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/rtl.svg" tvg-id="rtl1025.it" group-title="Radio",[736] RTL 102.5
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/WjpMtPyNjHwj/playlist_audio.m3u8
+
+#EXTINF:-1 tvg-name="SuperSix Radio" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/supersixradio.webp" tvg-id="supersixradio.it" group-title="Radio",[833] SuperSix Radio
+https://onair22.xdevel.com/proxy/xautocloud_nek2_339?mp=/;stream/;
+
+#EXTINF:-1 tvg-name="SuperSix Radio" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/supersixradio.webp" tvg-id="supersixradio.it" group-title="Radio",[833] SuperSix Radio
+https://onair22.xdevel.com/proxy/xautocloud_nek2_339?mp=/;stream/;
+
+#EXTINF:-1 tvg-name="Virgin Radio" tvg-logo="https://raw.githubusercontent.com/ZapprTV/channels/refs/heads/main/logos/it/optimized/virginradio.svg" tvg-id="virginradio.it" group-title="Radio",[786] Virgin Radio
+https://icecast.unitedradio.it/Virgin.mp3
