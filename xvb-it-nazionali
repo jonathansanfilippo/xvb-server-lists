@@ -202,7 +202,7 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/p
 #EXTINF:-1 tvg-name="RadioItaliaTV" tvg-logo="https://i.imgur.com/4VCEJuJ.png" tvg-id="RadioItaliaTV.it" group-title="Nazionali",[70] RadioItaliaTV
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 
-#EXTINF:-1 tvg-name="Canale Italia" tvg-logo="https://i.imgur.com/QlwLRyh.png" tvg-id="CanaleItalia.it" group-title="Regionali",[71]Canale Italia
+#EXTINF:-1 tvg-name="Canale Italia" tvg-logo="https://i.imgur.com/QlwLRyh.png" tvg-id="CanaleItalia.it" group-title="Nazionali",[71]Canale Italia
 https://ovp-live.akamaized.net/ac115_live/canale1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Rai 4K " tvg-logo="https://i.imgur.com/5gkt9DD.png" tvg-id="Rai4K.it" group-title="Nazionali",[101] Rai 4K 
@@ -273,5 +273,5 @@ https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="Sex Factor TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/sexfactortv.webp" group-title="Adulti",[227] Sex Factor TV
+#EXTINF:-1 tvg-name="Sex Factor TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/sexfactortv.webp" group-title="Nazionali",[227] Sex Factor TV
 https://host1.momentotv.live:29443/sexfactor/sexfactor/manifest.mpd
