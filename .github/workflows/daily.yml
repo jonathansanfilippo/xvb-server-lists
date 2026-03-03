@@ -1,3 +1,5 @@
+name: Daily build playlists
+
 on:
   schedule:
     - cron: "0 3 * * *"   # 03:00 UTC ogni giorno
@@ -17,17 +19,20 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Build playlist
+      - name: Build playlists
         run: python scripts/build_m3u.py
 
       - name: Commit if changed
         run: |
           git config user.name "xvb-b-bot"
           git config user.email "xvb-b-bot@users.noreply.github.com"
-          git add xvb-all.m3u
+
+          git add xvb-all.m3u xvb-radio-master.m3u
+
           if git diff --cached --quiet; then
             echo "No changes."
             exit 0
           fi
-          git commit -m "auto update xvb-all.m3u"
+
+          git commit -m "auto update playlists"
           git push
