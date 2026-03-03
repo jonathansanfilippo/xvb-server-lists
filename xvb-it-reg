@@ -1,8 +1,6 @@
 #EXTM3U 
 
 
-# Regionali -------------------------------
-
 #EXTINF:-1 tvg-name="111 Tv" tvg-logo="https://i.imgur.com/4jY8yAI.png" group-title="Regionali",111 Tv
 https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
 
