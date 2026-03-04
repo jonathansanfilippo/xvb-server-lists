@@ -25,8 +25,9 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Italia 1" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/italia1.png" tvg-id="Italia1.it" group-title="Nazionali",[6] Italia 1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-name="La7" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/la7.png" group-title="Nazionali",[7] La7
-https://viamotionhsi.netplus.ch/live/eds/la7/browser-HLS8/la7.m3u8
+#EXTINF:-1 tvg-id="La7" tvg-name="La7" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/la7.png" group-title="Nazionali",[7] La7
+#EXT-X-DASH-EMBEDDED-KEY="db057321c9224c25a7ccd75d911dd1fc:005b948eb397a581d10ff8bb60d19c93" license-details="db057321c9224c25a7ccd75d911dd1fc:005b948eb397a581d10ff8bb60d19c93"
+https://d15umi5iaezxgx.cloudfront.net/LA7/DRM/DASH/Live.mpd
 
 #EXTINF:-1 tvg-name="TV8" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/tv8.png" group-title="Nazionali",[8] TV8
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
@@ -61,8 +62,9 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="TV 2000" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/tv2000.png" tvg-id="TV2000.va" group-title="Nazionali",[28] TV 2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
-#EXTINF:-1 tvg-name="La7d" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/la7d.png" tvg-id="La7dit" group-title="Nazionali",[29] La7 Cinema
-https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
+#EXTINF:-1 tvg-id="La7dit" tvg-name="La7d" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/la7d.png" group-title="Nazionali",[29] La7 Cinema
+#EXT-X-DASH-EMBEDDED-KEY="a2b202e78a244da6876d5adbcf5d6a75:88c5efd5d7e49194cd780e773318f69d" license-details="a2b202e78a244da6876d5adbcf5d6a75:88c5efd5d7e49194cd780e773318f69d"
+https://d15umi5iaezxgx.cloudfront.net/LA7D/DRM/DASH/Live.mpd
 
 #EXTINF:-1 tvg-name="La 5" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/la5.png" tvg-id="La5.it" group-title="Nazionali",[30] La 5
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
