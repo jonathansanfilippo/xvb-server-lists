@@ -655,7 +655,7 @@ https://rst2.saiuzwebnetwork.it:8081/tvspaccanapoli/index.m3u8
 https://rst1.saiuzwebnetwork.it:8081/yaratv/index.m3u8
 
 #EXTINF:-1 tvg-name="Man-ga" tvg-logo="https://channels.zappr.stream/logos/it/optimized/man-ga.webp" group-title="Altri",[236] Man-ga
-https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/playlist.m3u8
+https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/manifest.mpd
 
 #EXTINF:-1 tvg-name="Genius 240" tvg-logo="https://channels.zappr.stream/logos/it/optimized/genius240.webp" group-title="Altri",[240] Genius 240
 https://uvotv.zappr.stream/149.m3u8
