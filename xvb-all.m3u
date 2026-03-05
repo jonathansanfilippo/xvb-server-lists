@@ -1,0 +1,1057 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Rai 1" tvg-logo="https://channels.zappr.stream/logos/it/optimized/rai1.svg" group-title="RAI",[1] Rai 1
+https://rai.zappr.stream/rai1.m3u8
+
+#EXTINF:-1 tvg-name="Rai 2" tvg-logo="https://channels.zappr.stream/logos/it/optimized/rai2.svg" group-title="RAI",[2] Rai 2
+https://rai.zappr.stream/rai2.m3u8
+
+#EXTINF:-1 tvg-name="Rai 3" tvg-logo="https://channels.zappr.stream/logos/it/optimized/rai3.svg" group-title="RAI",[103] Rai 3
+https://rai.zappr.stream/rai3.m3u8
+
+#EXTINF:-1 tvg-name="Rete 4" tvg-logo="https://channels.zappr.stream/logos/it/optimized/rete4.svg" group-title="Mediaset",[4] Rete 4
+https://live02-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="Canale 5" tvg-logo="https://channels.zappr.stream/logos/it/optimized/canale5.svg" group-title="Mediaset",[5] Canale 5
+https://live02-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="Italia 1" tvg-logo="https://channels.zappr.stream/logos/it/optimized/italia1.svg" group-title="Mediaset",[6] Italia 1
+https://live02-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="TV8" tvg-logo="https://channels.zappr.stream/logos/it/optimized/tv8.svg" group-title="Sky",[8] TV8
+https://uvotv.zappr.stream/269.m3u8
+
+#EXTINF:-1 tvg-name="20 Mediaset" tvg-logo="https://channels.zappr.stream/logos/it/optimized/20.svg" group-title="Mediaset",[20] 20 Mediaset
+https://live02-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="Rai 4" tvg-logo="https://channels.zappr.stream/logos/it/optimized/rai4.svg" group-title="RAI",[21] Rai 4
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-name="Iris" tvg-logo="https://channels.zappr.stream/logos/it/optimized/iris.svg" group-title="Altri",[22] Iris
+https://live02-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="Rai 5" tvg-logo="https://channels.zappr.stream/logos/it/optimized/rai5.svg" group-title="RAI",[23] Rai 5
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-name="Rai Movie" tvg-logo="https://channels.zappr.stream/logos/it/optimized/raimovie.svg" group-title="RAI",[24] Rai Movie
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-name="Rai Premium" tvg-logo="https://channels.zappr.stream/logos/it/optimized/raipremium.svg" group-title="RAI",[25] Rai Premium
+https://raipremium3-live.akamaized.net/hls/live/2018013/raipremium3/raipremium3/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Cielo" tvg-logo="https://channels.zappr.stream/logos/it/optimized/cielo.svg" group-title="Sky",[26] Cielo
+https://uvotv.zappr.stream/281.m3u8
+
+#EXTINF:-1 tvg-name="Real Time" tvg-logo="https://channels.zappr.stream/logos/it/optimized/realtime.svg" group-title="Altri",[31] Real Time
+https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
+
+#EXTINF:-1 tvg-name="QVC" tvg-logo="https://channels.zappr.stream/logos/it/optimized/qvc.svg" group-title="Altri",[32] QVC
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+
+#EXTINF:-1 tvg-name="Food Network" tvg-logo="https://channels.zappr.stream/logos/it/optimized/foodnetwork.svg" group-title="Warner-Discovery",[33] Food Network
+https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
+
+#EXTINF:-1 tvg-name="Cine34" tvg-logo="https://channels.zappr.stream/logos/it/optimized/cine34.svg" group-title="Mediaset",[34] Cine34
+https://live02-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="Focus" tvg-logo="https://channels.zappr.stream/logos/it/optimized/focus.svg" group-title="Altri",[35] Focus
+https://live02-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="RTL 102.5" tvg-logo="https://channels.zappr.stream/logos/it/optimized/rtl.svg" group-title="Altri",[36] RTL 102.5
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/manifest.mpd
+
+#EXTINF:-1 tvg-name="Discovery" tvg-logo="https://channels.zappr.stream/logos/it/optimized/discovery.svg" group-title="Warner-Discovery",[37] Discovery
+https://d1941a53blim0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-75c5ipmzpicfd/Discovery_IT.m3u8
+
+#EXTINF:-1 tvg-name="Giallo" tvg-logo="https://channels.zappr.stream/logos/it/optimized/giallo.svg" group-title="Warner-Discovery",[38] Giallo
+https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8
+
+#EXTINF:-1 tvg-name="Top Crime" tvg-logo="https://channels.zappr.stream/logos/it/optimized/topcrime.svg" group-title="Altri",[39] Top Crime
+https://live02-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="Boing" tvg-logo="https://channels.zappr.stream/logos/it/optimized/boing.svg" group-title="Altri",[40] Boing
+https://live02-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="K2" tvg-logo="https://channels.zappr.stream/logos/it/optimized/k2.svg" group-title="Warner-Discovery",[41] K2
+https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8
+
+#EXTINF:-1 tvg-name="Rai Gulp" tvg-logo="https://channels.zappr.stream/logos/it/optimized/raigulp.svg" group-title="RAI",[42] Rai Gulp
+https://rai.zappr.stream/raigulp.m3u8
+
+#EXTINF:-1 tvg-name="Frisbee" tvg-logo="https://channels.zappr.stream/logos/it/optimized/frisbee.webp" group-title="Warner-Discovery",[44] Frisbee
+https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
+
+#EXTINF:-1 tvg-name="Cartoonito" tvg-logo="https://channels.zappr.stream/logos/it/optimized/cartoonito.svg" group-title="Altri",[46] Cartoonito
+https://live02-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="Super!" tvg-logo="https://channels.zappr.stream/logos/it/optimized/super.svg" group-title="Altri",[47] Super!
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-name="Rai News 24" tvg-logo="https://channels.zappr.stream/logos/it/optimized/rainews24.svg" group-title="RAI",[48] Rai News 24
+https://d27wu3gni4gipu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7i6bsjw4lfg88/ABCD/Rai/RaiNews24_IT/rainews1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Italia 2" tvg-logo="https://channels.zappr.stream/logos/it/optimized/italia2.svg" group-title="Mediaset",[49] Italia 2
+https://live02-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky TG24" tvg-logo="https://channels.zappr.stream/logos/it/optimized/skytg24.svg" group-title="Sky",[50] Sky TG24
+https://uvotv.zappr.stream/293.m3u8
+
+#EXTINF:-1 tvg-name="DMAX" tvg-logo="https://channels.zappr.stream/logos/it/optimized/dmax.svg" group-title="Warner-Discovery",[52] DMAX
+https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
+
+#EXTINF:-1 tvg-name="Rai Storia" tvg-logo="https://channels.zappr.stream/logos/it/optimized/raistoria.svg" group-title="RAI",[54] Rai Storia
+https://rai.zappr.stream/raistoria.m3u8
+
+#EXTINF:-1 tvg-name="Mediaset Extra" tvg-logo="https://channels.zappr.stream/logos/it/optimized/mediasetextra.svg" group-title="Mediaset",[55] Mediaset Extra
+https://live02-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="Rai Scuola" tvg-logo="https://channels.zappr.stream/logos/it/optimized/raiscuola.svg" group-title="RAI",[57] Rai Scuola
+https://rai.zappr.stream/raiscuola.m3u8
+
+#EXTINF:-1 tvg-name="Rai Sport" tvg-logo="https://channels.zappr.stream/logos/it/optimized/raisport.svg" group-title="RAI",[58] Rai Sport
+https://rai.zappr.stream/raisport1.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Turbo" tvg-logo="https://channels.zappr.stream/logos/it/optimized/discoveryturbo.svg" group-title="Warner-Discovery",[59] Discovery Turbo
+https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
+
+#EXTINF:-1 tvg-name="il61" tvg-logo="https://channels.zappr.stream/logos/it/optimized/il61.svg" group-title="Altri",[61] il61
+https://5a1178b42cc03.streamlock.net/travel/travel/manifest.mpd
+
+#EXTINF:-1 tvg-name="Donna TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/donnatv.webp" group-title="Altri",[62] Donna TV
+https://5a1178b42cc03.streamlock.net/donnatv/donnatv/manifest.mpd
+
+#EXTINF:-1 tvg-name="SuperTennis" tvg-logo="https://channels.zappr.stream/logos/it/optimized/supertennis.svg" group-title="Altri",[64] SuperTennis
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+
+#EXTINF:-1 tvg-name="Deejay TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/deejay.svg" group-title="Altri",[69] Deejay TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/manifest.mpd
+
+#EXTINF:-1 tvg-name="RTL 102.5 Traffic" tvg-logo="https://channels.zappr.stream/logos/it/optimized/rtltraffic.svg" group-title="Altri",[739] RTL 102.5 Traffic
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/manifest.mpd
+
+#EXTINF:-1 tvg-name="Rai 4K" tvg-logo="https://channels.zappr.stream/logos/it/optimized/rai4k.svg" group-title="RAI",[101] Rai 4K
+https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Alma TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/almatv.svg" group-title="Altri",[65] Alma TV
+https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Radio 105 TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/radio105.svg" group-title="Altri",[66] Radio 105 TV
+https://live02-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="R101 TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/r101.svg" group-title="Altri",[67] R101 TV
+https://live02-col.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="BeJoy.Kids" tvg-logo="https://channels.zappr.stream/logos/it/optimized/bejoykids.webp" group-title="Altri",[247] BeJoy.Kids
+https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Gambero Rosso" tvg-logo="https://channels.zappr.stream/logos/it/optimized/gamberorosso.svg" group-title="Altri",[257] Gambero Rosso
+https://www.dailymotion.com/cdn/live/video/x9u215s.mpd?sec=3FE6qHnAR5mSywqiY3XmMw
+
+#EXTINF:-1 tvg-name="RDS Social TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/rdssocialtv.svg" group-title="Altri",[265] RDS Social TV
+https://stream.rdstv.radio/index.m3u8
+
+#EXTINF:-1 tvg-name="Virgin Radio TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/virginradiotv.webp" group-title="Altri",[786] Virgin Radio TV
+https://live02-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="LA7" tvg-logo="https://channels.zappr.stream/logos/it/optimized/la7.svg" group-title="La7",[7] LA7
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=db057321c9224c25a7ccd75d911dd1fc:005b948eb397a581d10ff8bb60d19c93
+https://d15umi5iaezxgx.cloudfront.net/LA7/DRM/DASH/Live.mpd
+
+#EXTINF:-1 tvg-name="LA7 Eventi" tvg-logo="https://channels.zappr.stream/logos/it/optimized/la7it.svg" group-title="La7",[7] LA7 Eventi
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=db057321c9224c25a7ccd75d911dd1fc:005b948eb397a581d10ff8bb60d19c93
+https://d15umi5iaezxgx.cloudfront.net/LA7FEED01/DRM/DASH/Live.mpd
+
+#EXTINF:-1 tvg-name="NOVE" tvg-logo="https://channels.zappr.stream/logos/it/optimized/nove.svg" group-title="Altri",[9] NOVE
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
+
+#EXTINF:-1 tvg-name="TwentySeven" tvg-logo="https://channels.zappr.stream/logos/it/optimized/twentyseven.svg" group-title="Altri",[27] TwentySeven
+https://live02-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="TV2000" tvg-logo="https://channels.zappr.stream/logos/it/optimized/tv2000.svg" group-title="Altri",[28] TV2000
+https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/playlist.m3u8
+
+#EXTINF:-1 tvg-name="LA7 Cinema" tvg-logo="https://channels.zappr.stream/logos/it/optimized/la7cinema.svg" group-title="La7",[29] LA7 Cinema
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2b202e78a244da6876d5adbcf5d6a75:88c5efd5d7e49194cd780e773318f69d
+https://d15umi5iaezxgx.cloudfront.net/LA7D/DRM/DASH/Live.mpd
+
+#EXTINF:-1 tvg-name="La5" tvg-logo="https://channels.zappr.stream/logos/it/optimized/la5.svg" group-title="Altri",[30] La5
+https://live02-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="Rai Yoyo" tvg-logo="https://channels.zappr.stream/logos/it/optimized/raiyoyo.svg" group-title="RAI",[43] Rai Yoyo
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-name="Boing Plus" tvg-logo="https://channels.zappr.stream/logos/it/optimized/boingplus.svg" group-title="Altri",[45] Boing Plus
+https://uvotv.zappr.stream/101.m3u8
+
+#EXTINF:-1 tvg-name="TGcom24" tvg-logo="https://channels.zappr.stream/logos/it/optimized/tgcom24.svg" group-title="Mediaset",[51] TGcom24
+https://live02-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="Casa Italia 53" tvg-logo="https://channels.zappr.stream/logos/it/optimized/casaitalia53.svg" group-title="Altri",[53] Casa Italia 53
+https://liveac915ha.streamcloud.it/channel09/playlist.m3u8
+
+#EXTINF:-1 tvg-name="HGTV - Home & Garden" tvg-logo="https://channels.zappr.stream/logos/it/optimized/hgtv.svg" group-title="Warner-Discovery",[56] HGTV - Home & Garden
+https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
+
+#EXTINF:-1 tvg-name="BIKE" tvg-logo="https://channels.zappr.stream/logos/it/optimized/bike.webp" group-title="Altri",[60] BIKE
+https://stream.prod-01.milano.nxmedge.net/argocdn/bikechannel/video.m3u8
+
+#EXTINF:-1 tvg-name="Primavera TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/primaveratv.webp" group-title="Altri",[60] Primavera TV
+https://distribution.sportitalialive.it/sportitalia/silive24_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SI SoloCalcio" tvg-logo="https://channels.zappr.stream/logos/it/optimized/sisolocalcio.svg" group-title="Altri",[60] SI SoloCalcio
+https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sportitalia" tvg-logo="https://channels.zappr.stream/logos/it/optimized/sportitalia.svg" group-title="Altri",[60] Sportitalia
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
+
+#EXTINF:-1 tvg-name="SportOutdoor.tv" tvg-logo="https://channels.zappr.stream/logos/it/optimized/sportoutdoortv.webp" group-title="Altri",[60] SportOutdoor.tv
+https://5a1178b42cc03.streamlock.net/sportoutdoorstream/sportoutdoorstream/manifest.mpd
+
+#EXTINF:-1 tvg-name="Canale 63" tvg-logo="https://channels.zappr.stream/logos/it/optimized/canale63.svg" group-title="Mediaset",[63] Canale 63
+https://uvotv.zappr.stream/257.m3u8
+
+#EXTINF:-1 tvg-name="SuperTennis Plus - Feed 1" tvg-logo="https://channels.zappr.stream/logos/it/optimized/supertennisplus.svg" group-title="Altri",[64] SuperTennis Plus - Feed 1
+https://421b2081187a40368f24e4fb496bfc26.msvdn.net/channel1/manifest.mpd
+
+#EXTINF:-1 tvg-name="SuperTennis Plus - Feed 2" tvg-logo="https://channels.zappr.stream/logos/it/optimized/supertennisplus.svg" group-title="Altri",[64] SuperTennis Plus - Feed 2
+https://421b2081187a40368f24e4fb496bfc26.msvdn.net/channel2/manifest.mpd
+
+#EXTINF:-1 tvg-name="SuperTennis Plus - Feed 3" tvg-logo="https://channels.zappr.stream/logos/it/optimized/supertennisplus.svg" group-title="Altri",[64] SuperTennis Plus - Feed 3
+https://421b2081187a40368f24e4fb496bfc26.msvdn.net/channel3/manifest.mpd
+
+#EXTINF:-1 tvg-name="SuperTennis Plus - Feed 4" tvg-logo="https://channels.zappr.stream/logos/it/optimized/supertennisplus.svg" group-title="Altri",[64] SuperTennis Plus - Feed 4
+https://421b2081187a40368f24e4fb496bfc26.msvdn.net/channel4/manifest.mpd
+
+#EXTINF:-1 tvg-name="3ngine Radio" tvg-logo="https://channels.zappr.stream/logos/it/optimized/engineradio.webp" group-title="Altri",[68] 3ngine Radio
+https://tsw.streamingwebtv24.it:1936/inteccdn4/inteccdn4/manifest.mpd
+
+#EXTINF:-1 tvg-name="BOM Channel" tvg-logo="https://channels.zappr.stream/logos/it/optimized/bomchannel.webp" group-title="Altri",[68] BOM Channel
+https://5f22d76e220e1.streamlock.net/canale6/canale6/manifest.mpd
+
+#EXTINF:-1 tvg-name="Euro TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/eurotv.webp" group-title="Altri",[68] Euro TV
+https://5db313b643fd8.streamlock.net/eurotv/eurotv/manifest.mpd
+
+#EXTINF:-1 tvg-name="GS Channel" tvg-logo="https://channels.zappr.stream/logos/it/optimized/gschannel.webp" group-title="Altri",[68] GS Channel
+https://rst.saiuzwebnetwork.it:8081/retereggio/index.m3u8
+
+#EXTINF:-1 tvg-name="Italian Horse TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/italianhorsetelevision.webp" group-title="Altri",[68] Italian Horse TV
+https://horsetv.aswifi.it/horsetv/live/index.m3u8
+
+#EXTINF:-1 tvg-name="Iunior TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/iuniortv.webp" group-title="Altri",[68] Iunior TV
+https://5db313b643fd8.streamlock.net/iuniortv/iuniortv/manifest.mpd
+
+#EXTINF:-1 tvg-name="La Grande Italia" tvg-logo="https://channels.zappr.stream/logos/it/optimized/lagrandeitalia.webp" group-title="Altri",[68] La Grande Italia
+https://64b16f23efbee.streamlock.net/grandeitaliatv/grandeitaliatv/manifest.mpd
+
+#EXTINF:-1 tvg-name="Radio Calima" tvg-logo="https://channels.zappr.stream/logos/it/optimized/radiocalima.webp" group-title="Altri",[68] Radio Calima
+https://nrvideo1.newradio.it/calimafm/calimafm/manifest.mpd
+
+#EXTINF:-1 tvg-name="Salute 24" tvg-logo="https://channels.zappr.stream/logos/it/optimized/salute24.webp" group-title="Altri",[68] Salute 24
+https://salute24.aswifi.it/salute24/live/index.m3u8
+
+#EXTINF:-1 tvg-name="SuperSix" tvg-logo="https://channels.zappr.stream/logos/it/optimized/supersix.webp" group-title="Altri",[68] SuperSix
+https://5f22d76e220e1.streamlock.net/supersixnew/supersixnew/manifest.mpd
+
+#EXTINF:-1 tvg-name="XCapital" tvg-logo="https://channels.zappr.stream/logos/it/optimized/xcapital.webp" group-title="Altri",[68] XCapital
+https://xcapital.aswifi.it/xcapital/live/index.m3u8
+
+#EXTINF:-1 tvg-name="Zerouno TV Music" tvg-logo="https://channels.zappr.stream/logos/it/optimized/zerounotvmusic.webp" group-title="Altri",[68] Zerouno TV Music
+https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/manifest.mpd
+
+#EXTINF:-1 tvg-name="Zerouno TV News" tvg-logo="https://channels.zappr.stream/logos/it/optimized/zerounotvnews.webp" group-title="Altri",[68] Zerouno TV News
+https://5f22d76e220e1.streamlock.net/01news/01news/manifest.mpd
+
+#EXTINF:-1 tvg-name="Radio Italia TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/radioitalia.svg" group-title="Altri",[70] Radio Italia TV
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+
+#EXTINF:-1 tvg-name="Canale Italia" tvg-logo="https://channels.zappr.stream/logos/it/optimized/canaleitalia.webp" group-title="Mediaset",[71] Canale Italia
+https://liveac915ha.streamcloud.it/channel11/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Italia 121" tvg-logo="https://channels.zappr.stream/logos/it/optimized/italia121.webp" group-title="Mediaset",[121] Italia 121
+https://liveac915ha.streamcloud.it/channel01/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Canale 122" tvg-logo="https://channels.zappr.stream/logos/it/optimized/canale122.webp" group-title="Mediaset",[122] Canale 122
+https://router.xdevel.com/video0s975363-69/stream/manifest.mpd
+
+#EXTINF:-1 tvg-name="Cusano News 7" tvg-logo="https://channels.zappr.stream/logos/it/optimized/cusanonews7.webp" group-title="Altri",[122] Cusano News 7
+https://router.xdevel.com/video1s975363-1596/stream/manifest.mpd
+
+#EXTINF:-1 tvg-name="Fatti Ieri" tvg-logo="https://channels.zappr.stream/logos/it/optimized/fattiieri.webp" group-title="Altri",[122] Fatti Ieri
+https://router.xdevel.com/video8s975363-2572/stream/manifest.mpd
+
+#EXTINF:-1 tvg-name="Incidente Probatorio" tvg-logo="https://channels.zappr.stream/logos/it/optimized/incidenteprobatorio.webp" group-title="Altri",[122] Incidente Probatorio
+https://router.xdevel.com/video6s975363-2570/stream/manifest.mpd
+
+#EXTINF:-1 tvg-name="Manà Manà Sport" tvg-logo="https://channels.zappr.stream/logos/it/optimized/manàmanàsport.webp" group-title="Altri",[122] Manà Manà Sport
+https://router.xdevel.com/video2s975363-2370/stream/manifest.mpd
+
+#EXTINF:-1 tvg-name="Psiche Criminale" tvg-logo="https://channels.zappr.stream/logos/it/optimized/psichecriminale.webp" group-title="Altri",[122] Psiche Criminale
+https://router.xdevel.com/video7s975363-2571/stream/manifest.mpd
+
+#EXTINF:-1 tvg-name="Radio Cusano Campus" tvg-logo="https://channels.zappr.stream/logos/it/optimized/radiocusanocampus.webp" group-title="Altri",[122] Radio Cusano Campus
+https://router.xdevel.com/video3s975363-2380/stream/manifest.mpd
+
+#EXTINF:-1 tvg-name="Radio Laziale" tvg-logo="https://channels.zappr.stream/logos/it/optimized/radiolaziale.svg" group-title="Altri",[122] Radio Laziale
+https://router.xdevel.com/video5s975363-2398/stream/manifest.mpd
+
+#EXTINF:-1 tvg-name="Trovati Morti" tvg-logo="https://channels.zappr.stream/logos/it/optimized/trovatimorti.webp" group-title="Altri",[122] Trovati Morti
+https://stream10.xdevel.com/video4s975363-2381/stream/manifest.mpd
+
+#EXTINF:-1 tvg-name="Italia Channel" tvg-logo="https://channels.zappr.stream/logos/it/optimized/italiachannel.webp" group-title="Mediaset",[123] Italia Channel
+https://uvotv.zappr.stream/71.m3u8
+
+#EXTINF:-1 tvg-name="Arte Italia 124" tvg-logo="https://channels.zappr.stream/logos/it/optimized/arteitalia124.webp" group-title="Altri",[124] Arte Italia 124
+https://liveac915ha.streamcloud.it/channel02/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Arte Italia 125" tvg-logo="https://channels.zappr.stream/logos/it/optimized/arteitalia125.webp" group-title="Altri",[125] Arte Italia 125
+https://liveac915ha.streamcloud.it/channel03/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Italia 126" tvg-logo="https://channels.zappr.stream/logos/it/optimized/italia126.webp" group-title="Mediaset",[126] Italia 126
+https://liveac915ha.streamcloud.it/channel04/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Italia 127" tvg-logo="https://channels.zappr.stream/logos/it/optimized/italia127.webp" group-title="Mediaset",[127] Italia 127
+https://liveac915ha.streamcloud.it/channel05/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Gold TV Italia" tvg-logo="https://channels.zappr.stream/logos/it/optimized/goldtvitalia.webp" group-title="Altri",[128] Gold TV Italia
+https://uvotv.zappr.stream/317.m3u8
+
+#EXTINF:-1 tvg-name="La4 Italia" tvg-logo="https://channels.zappr.stream/logos/it/optimized/la4italia.webp" group-title="Altri",[129] La4 Italia
+https://uvotv.zappr.stream/320.m3u8
+
+#EXTINF:-1 tvg-name="Channel 24" tvg-logo="https://channels.zappr.stream/logos/it/optimized/channel24.svg" group-title="Altri",[130] Channel 24
+https://uvotv.zappr.stream/323.m3u8
+
+#EXTINF:-1 tvg-name="Rete Italia" tvg-logo="https://channels.zappr.stream/logos/it/optimized/reteitalia.svg" group-title="Mediaset",[131] Rete Italia
+https://uvotv.zappr.stream/326.m3u8
+
+#EXTINF:-1 tvg-name="Lineagem" tvg-logo="https://channels.zappr.stream/logos/it/optimized/lineagem.webp" group-title="Altri",[132] Lineagem
+https://uvotv.zappr.stream/164.m3u8
+
+#EXTINF:-1 tvg-name="ArteIN" tvg-logo="https://channels.zappr.stream/logos/it/optimized/artein.svg" group-title="Altri",[133] ArteIN
+https://5a1178b42cc03.streamlock.net/chiossone/chiossone/manifest.mpd
+
+#EXTINF:-1 tvg-name="Cafè24" tvg-logo="https://channels.zappr.stream/logos/it/optimized/cafè24.webp" group-title="Altri",[133] Cafè24
+https://srvx1.selftv.video/cafe/smil:live/manifest.mpd
+
+#EXTINF:-1 tvg-name="Lombardia TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/lombardiatv.webp" group-title="Altri",[133] Lombardia TV
+https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Mediasud" tvg-logo="https://channels.zappr.stream/logos/it/optimized/mediasud.webp" group-title="Altri",[133] Mediasud
+https://5f22d76e220e1.streamlock.net/mediasud/mediasud/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Promoradio Network" tvg-logo="https://channels.zappr.stream/logos/it/optimized/promoradio.webp" group-title="Altri",[133] Promoradio Network
+https://media2021.rtvweb.com/promovideo_web/promoradiotv/manifest.mpd
+
+#EXTINF:-1 tvg-name="PromovideoTV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/promovideotv.webp" group-title="Altri",[133] PromovideoTV
+https://media2021.rtvweb.com/promovideo_web/promovideo/manifest.mpd
+
+#EXTINF:-1 tvg-name="Reggio TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/reggiotv.svg" group-title="Altri",[133] Reggio TV
+https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/manifest.mpd
+
+#EXTINF:-1 tvg-name="Rete Oro" tvg-logo="https://channels.zappr.stream/logos/it/optimized/reteoro.webp" group-title="Mediaset",[133] Rete Oro
+https://5a1178b42cc03.streamlock.net/ReteoroRoma/ReteoroRoma/manifest.mpd
+
+#EXTINF:-1 tvg-name="SuperTV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/supertv.webp" group-title="Altri",[133] SuperTV
+https://cdn12.streamshow.it/hbbtv-supertv/supertv/manifest.mpd
+
+#EXTINF:-1 tvg-name="Telebari" tvg-logo="https://channels.zappr.stream/logos/it/optimized/telebari.svg" group-title="Altri",[133] Telebari
+https://w1.mediastreaming.it/telebari/livestream/manifest.mpd
+
+#EXTINF:-1 tvg-name="Well TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/welltv.webp" group-title="Altri",[133] Well TV
+http://146.59.236.183:9509/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="Italia 134" tvg-logo="https://channels.zappr.stream/logos/it/optimized/italia134.webp" group-title="Mediaset",[134] Italia 134
+https://liveac915ha.streamcloud.it/channel06/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Italia 135" tvg-logo="https://channels.zappr.stream/logos/it/optimized/italia135.webp" group-title="Mediaset",[135] Italia 135
+https://liveac915ha.streamcloud.it/channel07/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Italia 136" tvg-logo="https://channels.zappr.stream/logos/it/optimized/italia136.webp" group-title="Mediaset",[136] Italia 136
+https://liveac915ha.streamcloud.it/channel08/playlist.m3u8
+
+#EXTINF:-1 tvg-name="137" tvg-logo="https://channels.zappr.stream/logos/it/optimized/137.webp" group-title="Altri",[137] 137
+https://uvotv.zappr.stream/332.m3u8
+
+#EXTINF:-1 tvg-name="Deluxe 139" tvg-logo="https://channels.zappr.stream/logos/it/optimized/deluxe139.svg" group-title="Altri",[139] Deluxe 139
+https://59d7d6f47d7fc.streamlock.net/pierstyle/pierstyle/playlist.m3u8
+
+#EXTINF:-1 tvg-name="StarMarket" tvg-logo="https://channels.zappr.stream/logos/it/optimized/starmarket.webp" group-title="Altri",[140] StarMarket
+https://uvotv.zappr.stream/338.m3u8
+
+#EXTINF:-1 tvg-name="Padre Pio TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/padrepiotv.webp" group-title="Altri",[145] Padre Pio TV
+https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Fascino TV 147" tvg-logo="https://channels.zappr.stream/logos/it/optimized/fascinotv147.webp" group-title="Altri",[147] Fascino TV 147
+https://64b16f23efbee.streamlock.net/canale147/canale147/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Primaset" tvg-logo="https://channels.zappr.stream/logos/it/optimized/primaset.webp" group-title="Altri",[149] Primaset
+https://primaset.servizistreaming.it/canale1/index.html
+
+#EXTINF:-1 tvg-name="EQUtv" tvg-logo="https://channels.zappr.stream/logos/it/optimized/equtv.webp" group-title="Altri",[151] EQUtv
+https://livestream-epiqa.akamaized.net/hls/live/2039453/EQUTV/master.m3u8
+
+#EXTINF:-1 tvg-name="70-80.it" tvg-logo="https://channels.zappr.stream/logos/it/optimized/70-80.webp" group-title="Altri",[157] 70-80.it
+https://585b674743bbb.streamlock.net/9050/9050/manifest.mpd
+
+#EXTINF:-1 tvg-name="Donna Shopping" tvg-logo="https://channels.zappr.stream/logos/it/optimized/donnashopping.webp" group-title="Altri",[157] Donna Shopping
+https://5f22d76e220e1.streamlock.net/donnashoppingtv/donnashoppingtv/manifest.mpd
+
+#EXTINF:-1 tvg-name="Fascino TV 157" tvg-logo="https://channels.zappr.stream/logos/it/optimized/fascinotv.webp" group-title="Altri",[157] Fascino TV 157
+https://64b16f23efbee.streamlock.net/canale157/canale157/manifest.mpd
+
+#EXTINF:-1 tvg-name="FF Motorsport" tvg-logo="https://channels.zappr.stream/logos/it/optimized/ffmotorsport.webp" group-title="Altri",[157] FF Motorsport
+https://host1.momentotv.live:28443/cmaf/ffmotorsport/index.mpd
+
+#EXTINF:-1 tvg-name="Is Good For You" tvg-logo="https://channels.zappr.stream/logos/it/optimized/isgoodforyou.webp" group-title="Altri",[157] Is Good For You
+https://64b16f23efbee.streamlock.net/isgoodforyou/isgoodforyou/manifest.mpd
+
+#EXTINF:-1 tvg-name="Lotto Corrado" tvg-logo="https://channels.zappr.stream/logos/it/optimized/fascinocorrado.webp" group-title="Altri",[157] Lotto Corrado
+https://64b16f23efbee.streamlock.net/fascinocorrado/fascinocorrado/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Lotto Diego" tvg-logo="https://channels.zappr.stream/logos/it/optimized/fascinodiego.webp" group-title="Altri",[157] Lotto Diego
+https://64b16f23efbee.streamlock.net/fascinodiego/fascinodiego/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Lotto Roberto" tvg-logo="https://channels.zappr.stream/logos/it/optimized/fascinoroberto.webp" group-title="Altri",[157] Lotto Roberto
+https://64b16f23efbee.streamlock.net/fascinoroberto/fascinoroberto/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Lotto Walter" tvg-logo="https://channels.zappr.stream/logos/it/optimized/fascinowalter.webp" group-title="Altri",[157] Lotto Walter
+https://64b16f23efbee.streamlock.net/fascinowalter/fascinowalter/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Radio Vacri" tvg-logo="https://channels.zappr.stream/logos/it/optimized/radiovacri.webp" group-title="Altri",[157] Radio Vacri
+https://host1.momentotv.live:28443/cmaf/radiovacri/index.mpd
+
+#EXTINF:-1 tvg-name="Telecomunicare" tvg-logo="https://channels.zappr.stream/logos/it/optimized/telecomunicare.webp" group-title="Altri",[157] Telecomunicare
+https://host1.momentotv.live:28443/cmaf/telecomunicare/index.mpd
+
+#EXTINF:-1 tvg-name="Kiss Kiss TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/kisskiss.svg" group-title="Altri",[158] Kiss Kiss TV
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Canale 162" tvg-logo="https://channels.zappr.stream/logos/it/optimized/162.webp" group-title="Mediaset",[162] Canale 162
+https://uvotv.zappr.stream/335.m3u8
+
+#EXTINF:-1 tvg-name="Odeon 24" tvg-logo="https://channels.zappr.stream/logos/it/optimized/odeon24.webp" group-title="Altri",[163] Odeon 24
+https://streaming.softwarecreation.it/Odeon/Odeon/manifest.mpd
+
+#EXTINF:-1 tvg-name="Fascino TV 165" tvg-logo="https://channels.zappr.stream/logos/it/optimized/fascinotv165.webp" group-title="Altri",[165] Fascino TV 165
+https://64b16f23efbee.streamlock.net/canale165/canale165/manifest.mpd
+
+#EXTINF:-1 tvg-name="Orler TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/orlertv.webp" group-title="Altri",[166] Orler TV
+https://w1.mediastreaming.it/orlertv/livestream/manifest.mpd
+
+#EXTINF:-1 tvg-name="Fascino TV 168" tvg-logo="https://channels.zappr.stream/logos/it/optimized/canale168.webp" group-title="Altri",[168] Fascino TV 168
+https://64b16f23efbee.streamlock.net/canale168/canale168/manifest.mpd
+
+#EXTINF:-1 tvg-name="Fascino TV 169" tvg-logo="https://channels.zappr.stream/logos/it/optimized/canale169.webp" group-title="Altri",[169] Fascino TV 169
+https://64b16f23efbee.streamlock.net/canale169/canale169/manifest.mpd
+
+#EXTINF:-1 tvg-name="70-80.it" tvg-logo="https://channels.zappr.stream/logos/it/optimized/70-80.webp" group-title="Altri",[170] 70-80.it
+https://585b674743bbb.streamlock.net/9050/9050/manifest.mpd
+
+#EXTINF:-1 tvg-name="Ama TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/amatv.webp" group-title="Altri",[170] Ama TV
+https://5db313b643fd8.streamlock.net/amatv/amatv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Donna Shopping" tvg-logo="https://channels.zappr.stream/logos/it/optimized/donnashopping.webp" group-title="Altri",[170] Donna Shopping
+https://5f22d76e220e1.streamlock.net/donnashoppingtv/donnashoppingtv/manifest.mpd
+
+#EXTINF:-1 tvg-name="FC Lamezia Terme" tvg-logo="https://channels.zappr.stream/logos/it/optimized/fclameziaterme.webp" group-title="Altri",[170] FC Lamezia Terme
+https://5f22d76e220e1.streamlock.net/ondemandadn/mp4:FClamezia.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Prima Free" tvg-logo="https://channels.zappr.stream/logos/it/optimized/primafree.webp" group-title="Altri",[170] Prima Free
+https://5f22d76e220e1.streamlock.net/primafree/primafree/manifest.mpd
+
+#EXTINF:-1 tvg-name="Prima TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/primatv.webp" group-title="Altri",[170] Prima TV
+https://64b16f23efbee.streamlock.net/primatv/primatv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Quants" tvg-logo="https://channels.zappr.stream/logos/it/optimized/quants.webp" group-title="Altri",[170] Quants
+https://5db313b643fd8.streamlock.net/quants/quants/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Radio JukeBox TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/radiojukeboxcalabria.webp" group-title="Altri",[170] Radio JukeBox TV
+https://64b16f23efbee.streamlock.net/radiojukeboxtv/radiojukeboxtv/manifest.mpd
+
+#EXTINF:-1 tvg-name="TeleFoggia" tvg-logo="https://channels.zappr.stream/logos/it/optimized/telefoggia.webp" group-title="Altri",[170] TeleFoggia
+https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Teleleonessa" tvg-logo="https://channels.zappr.stream/logos/it/optimized/teleleonessa.webp" group-title="Altri",[170] Teleleonessa
+https://cdn13.streamshow.it/hbbtv-teleleonessa/teleleonessa/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Zerouno TV Music" tvg-logo="https://channels.zappr.stream/logos/it/optimized/zerounotvmusic.webp" group-title="Altri",[170] Zerouno TV Music
+https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/manifest.mpd
+
+#EXTINF:-1 tvg-name="Zerouno TV News" tvg-logo="https://channels.zappr.stream/logos/it/optimized/zerounotvnews.webp" group-title="Altri",[170] Zerouno TV News
+https://5f22d76e220e1.streamlock.net/01news/01news/manifest.mpd
+
+#EXTINF:-1 tvg-name="RaiPlay" tvg-logo="https://channels.zappr.stream/logos/it/optimized/raiplay.svg" group-title="RAI",[201] RaiPlay
+https://www.raiplay.it/hbbtv/RaiPlay2020/index.html
+
+#EXTINF:-1 tvg-name="Rai Radio 2 Visual" tvg-logo="https://channels.zappr.stream/logos/it/optimized/rairadio2.svg" group-title="RAI",[202] Rai Radio 2 Visual
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-name="RaiPlay Sound" tvg-logo="https://channels.zappr.stream/logos/it/optimized/raiplaysound.svg" group-title="RAI",[203] RaiPlay Sound
+https://www.raiplay.it/hbbtv/RaiPlaySound/index.html
+
+#EXTINF:-1 tvg-name="AP Channel" tvg-logo="https://channels.zappr.stream/logos/it/optimized/apchannel.webp" group-title="Altri",[220] AP Channel
+https://64b16f23efbee.streamlock.net/apchannel/apchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Babayaga TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/babayagatv.webp" group-title="Altri",[221] Babayaga TV
+https://stream1.xdevel.com/video0s975770-326/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="IT Channel" tvg-logo="https://channels.zappr.stream/logos/it/optimized/itchannel.webp" group-title="Altri",[221] IT Channel
+https://streamer2.premio.link/itchannel/index.m3u8
+
+#EXTINF:-1 tvg-name="Lombardia TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/lombardiatv.webp" group-title="Altri",[221] Lombardia TV
+https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Pianeta Salute TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/pianetasalutetv.webp" group-title="Altri",[221] Pianeta Salute TV
+https://64b16f23efbee.streamlock.net/pianetasalutetv/pianetasalutetv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TeleAmbiente" tvg-logo="https://channels.zappr.stream/logos/it/optimized/teleambiente.webp" group-title="Altri",[221] TeleAmbiente
+https://5f22d76e220e1.streamlock.net/teleambiente3/teleambiente3/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Whop Shopping Television" tvg-logo="https://channels.zappr.stream/logos/it/optimized/whoptv.webp" group-title="Altri",[221] Whop Shopping Television
+https://streamer2.premio.link/mosaic-221-whopst/index.m3u8
+
+#EXTINF:-1 tvg-name="Canale 81 Lazio" tvg-logo="https://channels.zappr.stream/logos/it/optimized/canale81lazio.webp" group-title="Mediaset",[222] Canale 81 Lazio
+https://5f22d76e220e1.streamlock.net/canale81lazio/canale81lazio/manifest.mpd
+
+#EXTINF:-1 tvg-name="Radio Roma" tvg-logo="https://channels.zappr.stream/logos/it/optimized/radioroma.webp" group-title="Altri",[222] Radio Roma
+https://www.dailymotion.com/video/x96kfby
+
+#EXTINF:-1 tvg-name="Radio Roma Network" tvg-logo="https://channels.zappr.stream/logos/it/optimized/radioromanetwork.webp" group-title="Altri",[222] Radio Roma Network
+https://www.dailymotion.com/video/x98v4v8
+
+#EXTINF:-1 tvg-name="Radio Roma News" tvg-logo="https://channels.zappr.stream/logos/it/optimized/radioromanews.webp" group-title="Altri",[222] Radio Roma News
+https://www.dailymotion.com/video/x96kf9k
+
+#EXTINF:-1 tvg-name="RC88" tvg-logo="https://channels.zappr.stream/logos/it/optimized/rc88.svg" group-title="Altri",[222] RC88
+https://giatv.bozztv.com/giatv/giatv-centroitalia/centroitalia/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Welcome In" tvg-logo="https://channels.zappr.stream/logos/it/optimized/welcomein.webp" group-title="Altri",[226] Welcome In
+https://fms.premio.link/welcomein/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Divafutura" tvg-logo="https://channels.zappr.stream/logos/it/optimized/divafutura.webp" group-title="Altri",[227] Divafutura
+https://host1.momentotv.live:29443/divafutura/divafutura/manifest.mpd
+
+#EXTINF:-1 tvg-name="FF Motorsport" tvg-logo="https://channels.zappr.stream/logos/it/optimized/ffmotorsport.webp" group-title="Altri",[227] FF Motorsport
+https://host1.momentotv.live:28443/cmaf/ffmotorsport/index.mpd
+
+#EXTINF:-1 tvg-name="Mito Italia TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/mitoitalia.webp" group-title="Altri",[227] Mito Italia TV
+https://stream10.xdevel.com/video3s977812-2249/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Momento TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/momentotv.webp" group-title="Altri",[227] Momento TV
+https://host1.momentotv.live:28443/cmaf/momentotv/index.mpd
+
+#EXTINF:-1 tvg-name="Ottcast 4K Ultra HD" tvg-logo="https://channels.zappr.stream/logos/it/optimized/ottcast4kultrahd.webp" group-title="Altri",[227] Ottcast 4K Ultra HD
+https://host1.momentotv.live:28443/cmaf/demo4k/manifest.mpd
+
+#EXTINF:-1 tvg-name="Promo Shopping" tvg-logo="https://channels.zappr.stream/logos/it/optimized/promoshoppingtv.webp" group-title="Altri",[227] Promo Shopping
+https://host1.momentotv.live:28443/cmaf/televendita1/manifest.mpd
+
+#EXTINF:-1 tvg-name="Quadrifoglio TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/quadrifogliotv.webp" group-title="Altri",[227] Quadrifoglio TV
+https://5dcab9aed5331.streamlock.net/livevideo/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Radio Pooh" tvg-logo="https://channels.zappr.stream/logos/it/optimized/radiopooh.webp" group-title="Altri",[227] Radio Pooh
+https://pooh.fluid.stream/RadioPooh_hbb/livestream/manifest.mpd
+
+#EXTINF:-1 tvg-name="Radio Vacri" tvg-logo="https://channels.zappr.stream/logos/it/optimized/radiovacri.webp" group-title="Altri",[227] Radio Vacri
+https://host1.momentotv.live:28443/cmaf/radiovacri/index.mpd
+
+#EXTINF:-1 tvg-name="Sex Factor TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/sexfactortv.webp" group-title="Altri",[227] Sex Factor TV
+https://host1.momentotv.live:29443/sexfactor/sexfactor/manifest.mpd
+
+#EXTINF:-1 tvg-name="Telecomunicare" tvg-logo="https://channels.zappr.stream/logos/it/optimized/telecomunicare.webp" group-title="Altri",[227] Telecomunicare
+https://host1.momentotv.live:28443/cmaf/telecomunicare/index.mpd
+
+#EXTINF:-1 tvg-name="Tutto TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/tuttotv.webp" group-title="Altri",[227] Tutto TV
+https://host1.momentotv.live:28443/cmaf/tuttotv/manifest.mpd
+
+#EXTINF:-1 tvg-name="Tesory Channel" tvg-logo="https://channels.zappr.stream/logos/it/optimized/tesorychannel.webp" group-title="Altri",[228] Tesory Channel
+https://uvotv.zappr.stream/140.m3u8
+
+#EXTINF:-1 tvg-name="Terre Euganee Channel" tvg-logo="https://channels.zappr.stream/logos/it/optimized/terreeuganeechannel.svg" group-title="Altri",[231] Terre Euganee Channel
+https://5f22d76e220e1.streamlock.net/canale3/canale3/manifest.mpd
+
+#EXTINF:-1 tvg-name="RTL 102.5 Caliente" tvg-logo="https://channels.zappr.stream/logos/it/optimized/rtlcaliente.svg" group-title="Altri",[233] RTL 102.5 Caliente
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/manifest.mpd
+
+#EXTINF:-1 tvg-name="Canale 122" tvg-logo="https://channels.zappr.stream/logos/it/optimized/canale122.webp" group-title="Mediaset",[234] Canale 122
+https://router.xdevel.com/video0s975363-69/stream/manifest.mpd
+
+#EXTINF:-1 tvg-name="Cusano News 7" tvg-logo="https://channels.zappr.stream/logos/it/optimized/cusanonews7.webp" group-title="Altri",[234] Cusano News 7
+https://router.xdevel.com/video1s975363-1596/stream/manifest.mpd
+
+#EXTINF:-1 tvg-name="Fatti Ieri" tvg-logo="https://channels.zappr.stream/logos/it/optimized/fattiieri.webp" group-title="Altri",[234] Fatti Ieri
+https://router.xdevel.com/video8s975363-2572/stream/manifest.mpd
+
+#EXTINF:-1 tvg-name="Incidente Probatorio" tvg-logo="https://channels.zappr.stream/logos/it/optimized/incidenteprobatorio.webp" group-title="Altri",[234] Incidente Probatorio
+https://router.xdevel.com/video6s975363-2570/stream/manifest.mpd
+
+#EXTINF:-1 tvg-name="Manà Manà Sport" tvg-logo="https://channels.zappr.stream/logos/it/optimized/manàmanàsport.webp" group-title="Altri",[234] Manà Manà Sport
+https://router.xdevel.com/video2s975363-2370/stream/manifest.mpd
+
+#EXTINF:-1 tvg-name="Psiche Criminale" tvg-logo="https://channels.zappr.stream/logos/it/optimized/psichecriminale.webp" group-title="Altri",[234] Psiche Criminale
+https://router.xdevel.com/video7s975363-2571/stream/manifest.mpd
+
+#EXTINF:-1 tvg-name="Radio Cusano Campus" tvg-logo="https://channels.zappr.stream/logos/it/optimized/radiocusanocampus.webp" group-title="Altri",[234] Radio Cusano Campus
+https://router.xdevel.com/video3s975363-2380/stream/manifest.mpd
+
+#EXTINF:-1 tvg-name="Radio Laziale" tvg-logo="https://channels.zappr.stream/logos/it/optimized/radiolaziale.svg" group-title="Altri",[234] Radio Laziale
+https://router.xdevel.com/video5s975363-2398/stream/manifest.mpd
+
+#EXTINF:-1 tvg-name="Trovati Morti" tvg-logo="https://channels.zappr.stream/logos/it/optimized/trovatimorti.webp" group-title="Altri",[234] Trovati Morti
+https://stream10.xdevel.com/video4s975363-2381/stream/manifest.mpd
+
+#EXTINF:-1 tvg-name="Campania TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/campaniatv.webp" group-title="Altri",[235] Campania TV
+https://rst2.saiuzwebnetwork.it:8081/telemiracoli/index.m3u8
+
+#EXTINF:-1 tvg-name="France 24" tvg-logo="https://channels.zappr.stream/logos/it/optimized/france24.svg" group-title="Altri",[235] France 24
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-name="Hashtag TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/hashtagtv.webp" group-title="Altri",[235] Hashtag TV
+https://rst.saiuzwebnetwork.it:8081/fiestaloca/index.m3u8
+
+#EXTINF:-1 tvg-name="LiveNOW from FOX" tvg-logo="https://channels.zappr.stream/logos/it/optimized/livenowfromfox.svg" group-title="Altri",[235] LiveNOW from FOX
+https://aka-live1050.delivery.roku.com/eaf7d889-16e0-4c14-a299-a2932df9f467/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1 tvg-name="Oltre il 90°" tvg-logo="https://channels.zappr.stream/logos/it/optimized/oltreil90.svg" group-title="Altri",[235] Oltre il 90°
+-Mb_5DIUV-g
+
+#EXTINF:-1 tvg-name="Oltre il 90°" tvg-logo="https://channels.zappr.stream/logos/it/optimized/oltreil90.svg" group-title="Altri",[235] Oltre il 90°
+i2MGP_9ugTo
+
+#EXTINF:-1 tvg-name="Oltre il 90°" tvg-logo="https://channels.zappr.stream/logos/it/optimized/oltreil90.svg" group-title="Altri",[235] Oltre il 90°
+Br9tBl1jCnE
+
+#EXTINF:-1 tvg-name="Oltre il 90°" tvg-logo="https://channels.zappr.stream/logos/it/optimized/oltre90.webp" group-title="Altri",[235] Oltre il 90°
+U7BdyI8kUfI
+
+#EXTINF:-1 tvg-name="Pride Village" tvg-logo="https://channels.zappr.stream/logos/it/optimized/pridevillage.svg" group-title="Altri",[235] Pride Village
+https://5a1178b42cc03.streamlock.net/Eddy_pride/Eddy_pride/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Radio CasaSanremo" tvg-logo="https://channels.zappr.stream/logos/it/optimized/radiocasasanremo.webp" group-title="Altri",[235] Radio CasaSanremo
+https://router.xdevel.com/video3s975911-1255/stream/manifest.mpd
+
+#EXTINF:-1 tvg-name="Radio Nuova Pompei" tvg-logo="https://channels.zappr.stream/logos/it/optimized/radionpompei.webp" group-title="Altri",[235] Radio Nuova Pompei
+https://rst2.saiuzwebnetwork.it:8081/radionpompei/index.m3u8
+
+#EXTINF:-1 tvg-name="RadioStudioTV Potenza" tvg-logo="https://channels.zappr.stream/logos/it/optimized/radiostudiotvpotenza.webp" group-title="Altri",[235] RadioStudioTV Potenza
+https://stream10.xdevel.com/video0s978116-2477/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sky News" tvg-logo="https://channels.zappr.stream/logos/it/optimized/skynews.svg" group-title="Sky",[235] Sky News
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+
+#EXTINF:-1 tvg-name="Tele Futura" tvg-logo="https://channels.zappr.stream/logos/it/optimized/telefutura.webp" group-title="Altri",[235] Tele Futura
+https://rst2.saiuzwebnetwork.it:8081/telefutura/index.m3u8
+
+#EXTINF:-1 tvg-name="TV Spacca Napoli" tvg-logo="https://channels.zappr.stream/logos/it/optimized/tvspaccanapoli.webp" group-title="Altri",[235] TV Spacca Napoli
+https://rst2.saiuzwebnetwork.it:8081/tvspaccanapoli/index.m3u8
+
+#EXTINF:-1 tvg-name="Yara TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/yaratv.webp" group-title="Altri",[235] Yara TV
+https://rst1.saiuzwebnetwork.it:8081/yaratv/index.m3u8
+
+#EXTINF:-1 tvg-name="Man-ga" tvg-logo="https://channels.zappr.stream/logos/it/optimized/man-ga.webp" group-title="Altri",[236] Man-ga
+https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/manifest.mpd
+
+#EXTINF:-1 tvg-name="Genius 240" tvg-logo="https://channels.zappr.stream/logos/it/optimized/genius240.webp" group-title="Altri",[240] Genius 240
+https://uvotv.zappr.stream/149.m3u8
+
+#EXTINF:-1 tvg-name="France 24" tvg-logo="https://channels.zappr.stream/logos/it/optimized/france24.svg" group-title="Altri",[241] France 24
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-name="Sicilia 242" tvg-logo="https://channels.zappr.stream/logos/it/optimized/sicilia242.webp" group-title="Altri",[242] Sicilia 242
+https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/manifest.mpd
+
+#EXTINF:-1 tvg-name="Arte e Cultura" tvg-logo="https://channels.zappr.stream/logos/it/optimized/arteecultura.webp" group-title="Altri",[244] Arte e Cultura
+https://stream10.xdevel.com/video19s975955-2175/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Azzurra TV Italia" tvg-logo="https://channels.zappr.stream/logos/it/optimized/azzurratvitalia.svg" group-title="Altri",[244] Azzurra TV Italia
+https://stream4.xdevel.com/video5s975955-1727/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Fighters Life TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/fighterslife.webp" group-title="Altri",[244] Fighters Life TV
+https://live.fighterslife.tv/hls/test.m3u8
+
+#EXTINF:-1 tvg-name="GO-TV Channel" tvg-logo="https://channels.zappr.stream/logos/it/optimized/gotvchannel.webp" group-title="Altri",[244] GO-TV Channel
+https://64b16f23efbee.streamlock.net/gooo/gooo/manifest.mpd
+
+#EXTINF:-1 tvg-name="Mediaser TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/mediasertv.webp" group-title="Altri",[244] Mediaser TV
+https://stream10.xdevel.com/video20s975955-2184/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Promo 2Network" tvg-logo="https://channels.zappr.stream/logos/it/optimized/2network.webp" group-title="Altri",[244] Promo 2Network
+https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Qui Radio Londra TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/quiradiolondra.webp" group-title="Altri",[244] Qui Radio Londra TV
+https://load-balancer.azotosolutions.com/cdnedge6/smil:live6.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Radio Bellla e Monella TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/radiobelllaemonellatv.webp" group-title="Altri",[244] Radio Bellla e Monella TV
+https://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV_dash/RadioBelllaemonellaTV_dash.stream/manifest.mpd
+
+#EXTINF:-1 tvg-name="Radio Birikina TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/radiobirikinatv.webp" group-title="Altri",[244] Radio Birikina TV
+https://56b50ada2d659.streamlock.net/RadioBirikinaTV_dash/RadioBirikinaTV_dash.stream/manifest.mpd
+
+#EXTINF:-1 tvg-name="Radio Piterpan TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/radiopiterpantv.webp" group-title="Altri",[244] Radio Piterpan TV
+https://58d921499d3d3.streamlock.net/RadioPiterpanTV_dash/RadioPiterpanTV_dash.stream/manifest.mpd
+
+#EXTINF:-1 tvg-name="Radio SorRriso TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/radiosorrrisotv.webp" group-title="Altri",[244] Radio SorRriso TV
+https://56b50ada2d659.streamlock.net/RadioSorrrisoTV_dash/RadioSorrrisoTV_dash.stream/manifest.mpd
+
+#EXTINF:-1 tvg-name="Romit TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/romittv.webp" group-title="Altri",[244] Romit TV
+https://stream10.xdevel.com/video21s975955-2185/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sophia TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/sophiatv.webp" group-title="Altri",[244] Sophia TV
+https://stream9.xdevel.com/video7s975955-1778/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Top News Albania" tvg-logo="https://channels.zappr.stream/logos/it/optimized/topnewsalbania.webp" group-title="Altri",[244] Top News Albania
+TopMedia_TopNews
+
+#EXTINF:-1 tvg-name="TVP Info" tvg-logo="https://channels.zappr.stream/logos/it/optimized/tvpinfo.svg" group-title="Altri",[244] TVP Info
+https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Parole di Vita" tvg-logo="https://channels.zappr.stream/logos/it/optimized/paroledivita.svg" group-title="Altri",[245] Parole di Vita
+https://64b16f23efbee.streamlock.net/paroledivita/paroledivita/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Radio 24 - Il Sole 24 Ore TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/radio24tv.webp" group-title="Altri",[246] Radio 24 - Il Sole 24 Ore TV
+https://760869f771b04ca8a1e4daa89dd6da3e.msvdn.net/live/S88650405/33lZG4owunfW/manifest.mpd
+
+#EXTINF:-1 tvg-name="TCI" tvg-logo="https://channels.zappr.stream/logos/it/optimized/tci.webp" group-title="Altri",[248] TCI
+https://cdn.jwplayer.com/live/broadcast/NXTAdMkM.mpd
+
+#EXTINF:-1 tvg-name="FF Motorsport" tvg-logo="https://channels.zappr.stream/logos/it/optimized/ffmotorsport.webp" group-title="Altri",[251] FF Motorsport
+https://host1.momentotv.live:28443/cmaf/ffmotorsport/index.mpd
+
+#EXTINF:-1 tvg-name="Mediterranea TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/mediterraneatv.webp" group-title="Altri",[251] Mediterranea TV
+https://stream10.xdevel.com/video1s975675-1403/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Mito Italia TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/mitoitalia.webp" group-title="Altri",[251] Mito Italia TV
+https://stream10.xdevel.com/video3s977812-2249/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Momento TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/momentotv.webp" group-title="Altri",[251] Momento TV
+https://host1.momentotv.live:28443/cmaf/momentotv/index.mpd
+
+#EXTINF:-1 tvg-name="Mosaico" tvg-logo="https://channels.zappr.stream/logos/it/optimized/hbbtv.svg" group-title="Altri",[251] Mosaico
+https://host1.momentotv.live:28443/cmaf/mosaic251/index.mpd
+
+#EXTINF:-1 tvg-name="Paradiso TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/paradisotv.webp" group-title="Altri",[251] Paradiso TV
+https://host1.momentotv.live:28443/cmaf/paradisotv/manifest.mpd
+
+#EXTINF:-1 tvg-name="Radio Pooh" tvg-logo="https://channels.zappr.stream/logos/it/optimized/radiopooh.webp" group-title="Altri",[251] Radio Pooh
+https://pooh.fluid.stream/RadioPooh_hbb/livestream/manifest.mpd
+
+#EXTINF:-1 tvg-name="Radio Vacri" tvg-logo="https://channels.zappr.stream/logos/it/optimized/radiovacri.webp" group-title="Altri",[251] Radio Vacri
+https://host1.momentotv.live:28443/cmaf/radiovacri/index.mpd
+
+#EXTINF:-1 tvg-name="RTR 99 TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/rtr99tv.webp" group-title="Altri",[251] RTR 99 TV
+https://rtr99.fluid.stream/RTR99_hbb/RTR99_hbb.stream/manifest.mpd
+
+#EXTINF:-1 tvg-name="Studio Media & Films" tvg-logo="https://channels.zappr.stream/logos/it/optimized/studiomediaefilms.webp" group-title="Altri",[251] Studio Media & Films
+https://host1.momentotv.live:28443/cmaf/studiomf/manifest.mpd
+
+#EXTINF:-1 tvg-name="Telecomunicare" tvg-logo="https://channels.zappr.stream/logos/it/optimized/telecomunicare.webp" group-title="Altri",[251] Telecomunicare
+https://host1.momentotv.live:28443/cmaf/telecomunicare/index.mpd
+
+#EXTINF:-1 tvg-name="Vibe" tvg-logo="https://channels.zappr.stream/logos/it/optimized/vibechannel.webp" group-title="Altri",[251] Vibe
+https://host1.momentotv.live:28443/cmaf/vibe/manifest.mpd
+
+#EXTINF:-1 tvg-name="Radio Radio TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/radioradio.webp" group-title="Altri",[253] Radio Radio TV
+https://200912.global.ssl.fastly.net/646b335e2291a2022444bb7c/live_abeef7b0903711eeb7c62796fbf7de76/index.m3u8
+
+#EXTINF:-1 tvg-name="ADN24" tvg-logo="https://channels.zappr.stream/logos/it/optimized/adn24.webp" group-title="Altri",[254] ADN24
+https://64b16f23efbee.streamlock.net/adn24tv/adn24tv/manifest.mpd
+
+#EXTINF:-1 tvg-name="Business Channel" tvg-logo="https://channels.zappr.stream/logos/it/optimized/businesschannel.webp" group-title="Altri",[254] Business Channel
+https://64b16f23efbee.streamlock.net/businesschannel/businesschannel/manifest.mpd
+
+#EXTINF:-1 tvg-name="Calabria TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/calabriatv.webp" group-title="Altri",[254] Calabria TV
+https://64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Gaming Channel" tvg-logo="https://channels.zappr.stream/logos/it/optimized/gamingchannel.webp" group-title="Altri",[254] Gaming Channel
+https://64b16f23efbee.streamlock.net/hit24tv/hit24tv/manifest.mpd
+
+#EXTINF:-1 tvg-name="Giornale Radio" tvg-logo="https://channels.zappr.stream/logos/it/optimized/giornaleradio.webp" group-title="Altri",[254] Giornale Radio
+https://grtv-dash.fluid.stream/GRTV_hbb/GRTVhbb.stream/manifest.mpd
+
+#EXTINF:-1 tvg-name="Gusto TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/gustotv.webp" group-title="Altri",[254] Gusto TV
+https://64b16f23efbee.streamlock.net/gustotv/gustotv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="La Grande Italia" tvg-logo="https://channels.zappr.stream/logos/it/optimized/lagrandeitalia.webp" group-title="Altri",[254] La Grande Italia
+https://64b16f23efbee.streamlock.net/grandeitaliatv/grandeitaliatv/manifest.mpd
+
+#EXTINF:-1 tvg-name="Motori TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/motoritvadn.webp" group-title="Altri",[254] Motori TV
+https://64b16f23efbee.streamlock.net/motoritv/motoritv/manifest.mpd
+
+#EXTINF:-1 tvg-name="Radio JukeBox TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/radiojukeboxcalabria.webp" group-title="Altri",[254] Radio JukeBox TV
+https://64b16f23efbee.streamlock.net/radiojukeboxtv/radiojukeboxtv/manifest.mpd
+
+#EXTINF:-1 tvg-name="Radio Ricordi TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/radioricordi.webp" group-title="Altri",[254] Radio Ricordi TV
+https://5f22d76e220e1.streamlock.net/radioricorditv/radioricorditv/manifest.mpd
+
+#EXTINF:-1 tvg-name="Tele One" tvg-logo="https://channels.zappr.stream/logos/it/optimized/teleone.webp" group-title="Altri",[254] Tele One
+https://648026e87a75e.streamlock.net/teleone/teleone/manifest.mpd
+
+#EXTINF:-1 tvg-name="Teleregione Toscana" tvg-logo="https://channels.zappr.stream/logos/it/optimized/teleregionetoscana.webp" group-title="Altri",[254] Teleregione Toscana
+https://srvx1.selftv.video/teleregionetoscana/live/manifest.mpd
+
+#EXTINF:-1 tvg-name="Telespazio TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/telespaziotv.webp" group-title="Altri",[254] Telespazio TV
+https://5f22d76e220e1.streamlock.net/Telespaziotv/Telespaziotv/manifest.mpd
+
+#EXTINF:-1 tvg-name="Turismo TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/turismotv.webp" group-title="Altri",[254] Turismo TV
+https://64b16f23efbee.streamlock.net/turismotv/turismotv/manifest.mpd
+
+#EXTINF:-1 tvg-name="Zerouno TV Music" tvg-logo="https://channels.zappr.stream/logos/it/optimized/zerounotvmusic.webp" group-title="Altri",[254] Zerouno TV Music
+https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/manifest.mpd
+
+#EXTINF:-1 tvg-name="Maria Vision" tvg-logo="https://channels.zappr.stream/logos/it/optimized/mariavision.webp" group-title="Altri",[255] Maria Vision
+https://1601580044.rsc.cdn77.org/live/_jcn_/amls:CHANNEL_2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="OnAir Italia" tvg-logo="https://channels.zappr.stream/logos/it/optimized/onairitalia.svg" group-title="Altri",[256] OnAir Italia
+https://5f22d76e220e1.streamlock.net/nauticachannel/nauticachannel/manifest.mpd
+
+#EXTINF:-1 tvg-name="Radiofreccia" tvg-logo="https://channels.zappr.stream/logos/it/optimized/radiofreccia.svg" group-title="Altri",[258] Radiofreccia
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/manifest.mpd
+
+#EXTINF:-1 tvg-name="Urania" tvg-logo="https://channels.zappr.stream/logos/it/optimized/urania.svg" group-title="Altri",[260] Urania
+https://69d6d7eab63943c4810c4098feaa0d9c.msvdn.net/live/S76542633/a8BwWIUxagF6/manifest.mpd
+
+#EXTINF:-1 tvg-name="Dr. Palmas TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/drpalmastv.svg" group-title="Altri",[261] Dr. Palmas TV
+https://streamer2.premio.link/dr_palmastv/index.m3u8
+
+#EXTINF:-1 tvg-name="Byoblu" tvg-logo="https://channels.zappr.stream/logos/it/optimized/byoblu.svg" group-title="Altri",[262] Byoblu
+https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/manifest.mpd
+
+#EXTINF:-1 tvg-name="Radio NTR 264" tvg-logo="https://channels.zappr.stream/logos/it/optimized/ntr264.webp" group-title="Altri",[264] Radio NTR 264
+https://primaset.servizistreaming.it/canale2/index.html
+
+#EXTINF:-1 tvg-name="Radio Zeta" tvg-logo="https://channels.zappr.stream/logos/it/optimized/radiozeta.svg" group-title="Altri",[266] Radio Zeta
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/manifest.mpd
+
+#EXTINF:-1 tvg-name="ArteOraTV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/arteoratv.webp" group-title="Altri",[267] ArteOraTV
+https://stream10.xdevel.com/video0s978273-2568/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="FF Motorsport" tvg-logo="https://channels.zappr.stream/logos/it/optimized/ffmotorsport.webp" group-title="Altri",[267] FF Motorsport
+https://host1.momentotv.live:28443/cmaf/ffmotorsport/index.mpd
+
+#EXTINF:-1 tvg-name="Mito Italia TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/mitoitalia.webp" group-title="Altri",[267] Mito Italia TV
+https://stream10.xdevel.com/video3s977812-2249/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Momento TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/momentotv.webp" group-title="Altri",[267] Momento TV
+https://host1.momentotv.live:28443/cmaf/momentotv/index.mpd
+
+#EXTINF:-1 tvg-name="Ottcast 4K Ultra HD" tvg-logo="https://channels.zappr.stream/logos/it/optimized/ottcast4kultrahd.webp" group-title="Altri",[267] Ottcast 4K Ultra HD
+https://host1.momentotv.live:28443/cmaf/demo4k/manifest.mpd
+
+#EXTINF:-1 tvg-name="Quadrifoglio TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/quadrifogliotv.webp" group-title="Altri",[267] Quadrifoglio TV
+https://5dcab9aed5331.streamlock.net/livevideo/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Radio Pooh" tvg-logo="https://channels.zappr.stream/logos/it/optimized/radiopooh.webp" group-title="Altri",[267] Radio Pooh
+https://pooh.fluid.stream/RadioPooh_hbb/livestream/manifest.mpd
+
+#EXTINF:-1 tvg-name="Radio Vacri" tvg-logo="https://channels.zappr.stream/logos/it/optimized/radiovacri.webp" group-title="Altri",[267] Radio Vacri
+https://host1.momentotv.live:28443/cmaf/radiovacri/index.mpd
+
+#EXTINF:-1 tvg-name="Telecomunicare" tvg-logo="https://channels.zappr.stream/logos/it/optimized/telecomunicare.webp" group-title="Altri",[267] Telecomunicare
+https://host1.momentotv.live:28443/cmaf/telecomunicare/index.mpd
+
+#EXTINF:-1 tvg-name="Antenna 3" tvg-logo="https://channels.zappr.stream/logos/it/optimized/antenna3.webp" group-title="Altri",[268] Antenna 3
+https://media2021.rtvweb.com/antenna3massa/a3/manifest.mpd
+
+#EXTINF:-1 tvg-name="Capri.Events" tvg-logo="https://channels.zappr.stream/logos/it/optimized/caprievents.webp" group-title="Altri",[268] Capri.Events
+https://host2.hbbtv.me:28443/cmaf/caprievents/index.m3u8
+
+#EXTINF:-1 tvg-name="Contrasto TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/contrastotv.webp" group-title="Altri",[268] Contrasto TV
+https://host2.hbbtv.me:28443/cmaf/contrastotv/index.m3u8
+
+#EXTINF:-1 tvg-name="Enti e Istituzioni TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/entieistituzionitv.webp" group-title="Altri",[268] Enti e Istituzioni TV
+https://rst.saiuzwebnetwork.it:8081/istituzioni/index.m3u8
+
+#EXTINF:-1 tvg-name="FF Motorsport" tvg-logo="https://channels.zappr.stream/logos/it/optimized/ffmotorsport.webp" group-title="Altri",[268] FF Motorsport
+https://host1.momentotv.live:28443/cmaf/ffmotorsport/index.mpd
+
+#EXTINF:-1 tvg-name="Globus Television" tvg-logo="https://channels.zappr.stream/logos/it/optimized/globustelevision.webp" group-title="Altri",[268] Globus Television
+https://5f22d76e220e1.streamlock.net/globustelevision/globustelevision/manifest.mpd
+
+#EXTINF:-1 tvg-name="Italia Felix TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/italiafelixtv.webp" group-title="Mediaset",[268] Italia Felix TV
+https://stream10.xdevel.com/video1s977812-2247/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Mito Italia TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/mitoitalia.webp" group-title="Altri",[268] Mito Italia TV
+https://stream10.xdevel.com/video3s977812-2249/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="MJ Radio TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/mjradio.webp" group-title="Altri",[268] MJ Radio TV
+https://5f22d76e220e1.streamlock.net/mjradiowebtv/mjradiowebtv/manifest.mpd
+
+#EXTINF:-1 tvg-name="Momento TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/momentotv.webp" group-title="Altri",[268] Momento TV
+https://host1.momentotv.live:28443/cmaf/momentotv/index.mpd
+
+#EXTINF:-1 tvg-name="Napoletani nel Mondo" tvg-logo="https://channels.zappr.stream/logos/it/optimized/napoletaninelmondo.webp" group-title="Altri",[268] Napoletani nel Mondo
+https://host2.hbbtv.me:28443/cmaf/napoletaninelmondo/index.mpd
+
+#EXTINF:-1 tvg-name="Ottcast 4K Ultra HD" tvg-logo="https://channels.zappr.stream/logos/it/optimized/ottcast4kultrahd.webp" group-title="Altri",[268] Ottcast 4K Ultra HD
+https://host1.momentotv.live:28443/cmaf/demo4k/manifest.mpd
+
+#EXTINF:-1 tvg-name="Pet Mania TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/petmaniatv.webp" group-title="Altri",[268] Pet Mania TV
+http://hbbtv.momentotv.live:29935/petmania/petmania/manifest.mpd
+
+#EXTINF:-1 tvg-name="Pianeta Imprese TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/pianetaimprese.webp" group-title="Altri",[268] Pianeta Imprese TV
+https://host2.hbbtv.me:28443/cmaf/pimprese/index.m3u8
+
+#EXTINF:-1 tvg-name="Quadrifoglio TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/quadrifogliotv.webp" group-title="Altri",[268] Quadrifoglio TV
+https://5dcab9aed5331.streamlock.net/livevideo/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Quartocanale" tvg-logo="https://channels.zappr.stream/logos/it/optimized/quartocanale.webp" group-title="Altri",[268] Quartocanale
+https://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Radio Laser TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/radiolaser.webp" group-title="Altri",[268] Radio Laser TV
+https://57068da1deb21.streamlock.net/radiolaser/radiolaser/manifest.mpd
+
+#EXTINF:-1 tvg-name="Radio Pooh" tvg-logo="https://channels.zappr.stream/logos/it/optimized/radiopooh.webp" group-title="Altri",[268] Radio Pooh
+https://pooh.fluid.stream/RadioPooh_hbb/livestream/manifest.mpd
+
+#EXTINF:-1 tvg-name="Radio Vacri" tvg-logo="https://channels.zappr.stream/logos/it/optimized/radiovacri.webp" group-title="Altri",[268] Radio Vacri
+https://host1.momentotv.live:28443/cmaf/radiovacri/index.mpd
+
+#EXTINF:-1 tvg-name="Sport Channel 214" tvg-logo="https://channels.zappr.stream/logos/it/optimized/sportchannel214.webp" group-title="Altri",[268] Sport Channel 214
+sportchannelnews
+
+#EXTINF:-1 tvg-name="Tele Futura" tvg-logo="https://channels.zappr.stream/logos/it/optimized/telefutura.webp" group-title="Altri",[268] Tele Futura
+https://rst2.saiuzwebnetwork.it:8081/telefutura/index.m3u8
+
+#EXTINF:-1 tvg-name="Telecomunicare" tvg-logo="https://channels.zappr.stream/logos/it/optimized/telecomunicare.webp" group-title="Altri",[268] Telecomunicare
+https://host1.momentotv.live:28443/cmaf/telecomunicare/index.mpd
+
+#EXTINF:-1 tvg-name="Telelaser" tvg-logo="https://channels.zappr.stream/logos/it/optimized/telelaser.webp" group-title="Altri",[268] Telelaser
+https://585b674743bbb.streamlock.net/9022/9022/manifest.mpd
+
+#EXTINF:-1 tvg-name="TelePegaso" tvg-logo="https://channels.zappr.stream/logos/it/optimized/telepegaso.webp" group-title="Altri",[268] TelePegaso
+https://stream10.xdevel.com/video0s977504-2067/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TeleVideo Agrigento" tvg-logo="https://channels.zappr.stream/logos/it/optimized/televideoagrigento.webp" group-title="Altri",[268] TeleVideo Agrigento
+https://media2021.rtvweb.com/tva/live/manifest.mpd
+
+#EXTINF:-1 tvg-name="Tutto TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/tuttotv.webp" group-title="Altri",[268] Tutto TV
+https://host1.momentotv.live:28443/cmaf/tuttotv/manifest.mpd
+
+#EXTINF:-1 tvg-name="Valore Impresa TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/valoreimpresatv.webp" group-title="Altri",[268] Valore Impresa TV
+https://stream10.xdevel.com/video9s977812-2368/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Village TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/villagetv.webp" group-title="Altri",[268] Village TV
+https://stream3.ondaweb.tv/hls/villagetv/index.m3u8
+
+#EXTINF:-1 tvg-name="2Settanta TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/2settantatv.webp" group-title="Altri",[270] 2Settanta TV
+http://185.132.71.134:1935/live/cdn5/manifest.mpd
+
+#EXTINF:-1 tvg-name="Satisfaction TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/sct.webp" group-title="Altri",[401] Satisfaction TV
+https://stream10.xdevel.com/video22s975955-2186/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Plus TV Motori" tvg-logo="https://channels.zappr.stream/logos/it/optimized/plustvmotori.webp" group-title="Altri",[402] Plus TV Motori
+https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Plus TV Sport" tvg-logo="https://channels.zappr.stream/logos/it/optimized/plustvsport.webp" group-title="Altri",[402] Plus TV Sport
+https://jr7yvkmwda4v-hls-live.mariatvcdn.it/liveu/9aa7fdc4068e56587206b298b423cb82.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Cartello lineare" tvg-logo="https://channels.zappr.stream/logos/it/optimized/nexumchannel.webp" group-title="Altri",[403] Cartello lineare
+http://185.132.71.134:1935/live/cdn4/manifest.mpd
+
+#EXTINF:-1 tvg-name="Controradio" tvg-logo="https://channels.zappr.stream/logos/it/optimized/controradio.webp" group-title="Altri",[403] Controradio
+https://64b16f23efbee.streamlock.net/controradio/controradio/manifest.mpd
+
+#EXTINF:-1 tvg-name="EventPrime Television" tvg-logo="https://channels.zappr.stream/logos/it/optimized/eventprimetelevision.webp" group-title="Altri",[403] EventPrime Television
+https://64b16f23efbee.streamlock.net/primeevent/primeevent/manifest.mpd
+
+#EXTINF:-1 tvg-name="Italian Horse TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/italianhorsetelevision.webp" group-title="Altri",[403] Italian Horse TV
+https://64b16f23efbee.streamlock.net/italianhorsetv/italianhorsetv/manifest.mpd
+
+#EXTINF:-1 tvg-name="Nexum Channel" tvg-logo="https://channels.zappr.stream/logos/it/optimized/nexumchannel.webp" group-title="Altri",[403] Nexum Channel
+https://64b16f23efbee.streamlock.net/nexumchannel/nexumchannel/manifest.mpd
+
+#EXTINF:-1 tvg-name="Salute 24" tvg-logo="https://channels.zappr.stream/logos/it/optimized/salute24.webp" group-title="Altri",[403] Salute 24
+https://64b16f23efbee.streamlock.net/salute24/salute24/manifest.mpd
+
+#EXTINF:-1 tvg-name="XCapital" tvg-logo="https://channels.zappr.stream/logos/it/optimized/xcapital.webp" group-title="Altri",[403] XCapital
+https://64b16f23efbee.streamlock.net/xcapital/xcapital/manifest.mpd
+
+#EXTINF:-1 tvg-name="Imprese" tvg-logo="https://channels.zappr.stream/logos/it/optimized/imprese.webp" group-title="Altri",[412] Imprese
+https://streamer2.premio.link/imprese/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Italian Fishing TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/italianfishingtv.webp" group-title="Altri",[441] Italian Fishing TV
+https://fms.premio.link/fishingtv/index.m3u8
+
+#EXTINF:-1 tvg-name="Automoto" tvg-logo="https://channels.zappr.stream/logos/it/optimized/automoto.svg" group-title="Altri",[510] Automoto
+https://3f70a96a11dd4da88ee87c52fdd0521c.msvdn.net/live/S75749031/EYqrcmlFWlJD/manifest.mpd
+
+#EXTINF:-1 tvg-name="Radio Capital TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/radiocapital.svg" group-title="Altri",[713] Radio Capital TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/manifest.mpd
+
+#EXTINF:-1 tvg-name="m2o TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/m2otv.webp" group-title="Altri",[715] m2o TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/manifest.mpd
+
+#EXTINF:-1 tvg-name="RTL 102.5 Best" tvg-logo="https://channels.zappr.stream/logos/it/optimized/rtlbest.svg" group-title="Altri",[740] RTL 102.5 Best
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/manifest.mpd
+
+#EXTINF:-1 tvg-name="RTL 102.5 Napulè" tvg-logo="https://channels.zappr.stream/logos/it/optimized/rtlnapulè.svg" group-title="Altri",[741] RTL 102.5 Napulè
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/manifest.mpd
+
+#EXTINF:-1 tvg-name="RTL 102.5 Disco" tvg-logo="https://channels.zappr.stream/logos/it/optimized/rtldisco.svg" group-title="Altri",[742] RTL 102.5 Disco
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/manifest.mpd
+
+#EXTINF:-1 tvg-name="RTL 102.5 Caliente" tvg-logo="https://channels.zappr.stream/logos/it/optimized/rtlcaliente.svg" group-title="Altri",[743] RTL 102.5 Caliente
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/manifest.mpd
+
+#EXTINF:-1 tvg-name="RTL 102.5 Bro&Sis" tvg-logo="https://channels.zappr.stream/logos/it/optimized/rtlbrosis.svg" group-title="Altri",[744] RTL 102.5 Bro&Sis
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/manifest.mpd
+
+#EXTINF:-1 tvg-name="Radio Monte Carlo TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/radiomontecarlo.webp" group-title="Altri",[772] Radio Monte Carlo TV
+https://live02-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="Radio Margherita Più" tvg-logo="https://channels.zappr.stream/logos/it/optimized/radiomargheritapiù.webp" group-title="Altri",[825] Radio Margherita Più
+https://648026e87a75e.streamlock.net/radiomargherita/radiomargherita/manifest.mpd
+
+#EXTINF:-1 tvg-name="Class CNBC" tvg-logo="https://channels.zappr.stream/logos/it/optimized/classcnbc.svg" group-title="Altri",[828] Class CNBC
+https://www.dailymotion.com/cdn/live/video/x9h54mc.mpd?sec=u2zQSu-L_6-XRH0l0hJt4w
+
+#EXTINF:-1 tvg-name="111 TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/111tv.webp" group-title="Altri",[833] 111 TV
+https://5db313b643fd8.streamlock.net/111/111/manifest.mpd
+
+#EXTINF:-1 tvg-name="Euro TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/eurotv.webp" group-title="Altri",[833] Euro TV
+https://5db313b643fd8.streamlock.net/eurotv/eurotv/manifest.mpd
+
+#EXTINF:-1 tvg-name="ItaliaCable" tvg-logo="https://channels.zappr.stream/logos/it/optimized/italiacable.webp" group-title="Altri",[833] ItaliaCable
+https://5f22d76e220e1.streamlock.net/italiacable/italiacable/manifest.mpd
+
+#EXTINF:-1 tvg-name="Iunior TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/iuniortv.webp" group-title="Altri",[833] Iunior TV
+https://5db313b643fd8.streamlock.net/iuniortv/iuniortv/manifest.mpd
+
+#EXTINF:-1 tvg-name="Medjugorje TV Italia" tvg-logo="https://channels.zappr.stream/logos/it/optimized/medjugorjetvitalia.webp" group-title="Altri",[833] Medjugorje TV Italia
+https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/manifest.mpd
+
+#EXTINF:-1 tvg-name="Radio Caserta TV" tvg-logo="https://channels.zappr.stream/logos/it/optimized/radiocasertatv.webp" group-title="Altri",[833] Radio Caserta TV
+https://5f22d76e220e1.streamlock.net/radiocasertatv/radiocasertatv/manifest.mpd
+
+#EXTINF:-1 tvg-name="Radio Medjugorje Italia" tvg-logo="https://channels.zappr.stream/logos/it/optimized/radiomedjugorjeitalia.webp" group-title="Altri",[833] Radio Medjugorje Italia
+https://5f22d76e220e1.streamlock.net/lagodigarda/lagodigarda/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Rete TV Italia" tvg-logo="https://channels.zappr.stream/logos/it/optimized/retetvitalia.webp" group-title="Mediaset",[833] Rete TV Italia
+https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/manifest.mpd
+
+#EXTINF:-1 tvg-name="RTM" tvg-logo="https://channels.zappr.stream/logos/it/optimized/rtmmanduria.webp" group-title="Altri",[833] RTM
+https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SuperSix" tvg-logo="https://channels.zappr.stream/logos/it/optimized/supersix.webp" group-title="Altri",[833] SuperSix
+https://5f22d76e220e1.streamlock.net/supersixnew/supersixnew/manifest.mpd
+
+#EXTINF:-1 tvg-name="Tele Messina" tvg-logo="https://channels.zappr.stream/logos/it/optimized/telemessina.webp" group-title="Altri",[833] Tele Messina
+https://5db313b643fd8.streamlock.net/telemessina/telemessina/manifest.mpd
+
+#EXTINF:-1 tvg-name="Zerouno TV Music" tvg-logo="https://channels.zappr.stream/logos/it/optimized/zerounotvmusic.webp" group-title="Altri",[833] Zerouno TV Music
+https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/manifest.mpd
+
+#EXTINF:-1 tvg-name="Zerouno TV News" tvg-logo="https://channels.zappr.stream/logos/it/optimized/zerounotvnews.webp" group-title="Altri",[833] Zerouno TV News
+https://5f22d76e220e1.streamlock.net/01news/01news/manifest.mpd
+
+#EXTINF:-1 tvg-name="Class TV Moda" tvg-logo="https://channels.zappr.stream/logos/it/optimized/classtvmoda.webp" group-title="Altri",[883] Class TV Moda
+https://www.dailymotion.com/cdn/live/video/x9gjcsc.mpd?sec=TvanlgS3XnAOVoMuWBcmVw
+
+#EXTINF:-1 tvg-name="Caccia e Pesca" tvg-logo="https://channels.zappr.stream/logos/it/optimized/cacciaepesca.svg" group-title="Altri",[888] Caccia e Pesca
+https://app.cacciaepesca.tv/hbbtv-cp/
