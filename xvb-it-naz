@@ -6,7 +6,8 @@
 # Nazionali (LCN DTT) -------------------------------
 
 #EXTINF:-1 tvg-name="Rai 1" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/rai1.png" tvg-id="Rai1.it" group-title="Nazionali",[1] Rai 1
-https://rai.zappr.stream/rai1.m3u8
+https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
+# out ---- https://rai.zappr.stream/rai1.m3u8
 # out ----  https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
 
 #EXTINF:-1 tvg-name="Rai 2" tvg-logo="https://jonathansanfilippo.github.io/xvb-server-lists/loghi/naz/rai2.png" tvg-id="Rai2.it" group-title="Nazionali",[2] Rai 2
